@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-16-18:37:05" username="commaust" password="commaust">
+<residential modTime="2016-03-16-18:35" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9293566</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">549000</price>
+<priceView>$549,000-$600,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>45</streetNumber>
+<street>Rosenthal Street</street>
+<suburb display="yes">DOONSIDE</suburb>
+<state>NSW</state>
+<postcode>2767</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[BRICK VENEER HOUSE AT AN AFFORDABLE PRICE!!]]></headline>
+<description><![CDATA[Immaculately presented and well maintained, this delightful home combines all of the fundamental elements needed for private family living and entertaining. This quality brick veneer house exuberates value providing a perfect position opposite to Doonside Shopping Centre and within walking distance to transport and schools. 
+
+&bull;	3 Good-sized bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite, other two bedrooms fitted with built-in robs.
+&bull;	Well-presented kitchen equipped with gas cooking opens onto the formal dining area. 
+&bull;	Good size lounge with reverse cycled air conditioner.
+&bull;	Well-maintained main bathroom with separate shower and bathtub
+&bull;	External entertainment area covered by a good size pergola 
+&bull;	Well and easy maintained lawn and garden shed
+&bull;	Single lockup garage 
+Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>19-Mar-2016 11:30AM to 12:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409140-12006-DSC_0744a.jpg"/>
+<img id="a" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408923-11719-DSC_0692.jpg"/>
+<img id="b" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408946-11736-DSC_0700.jpg"/>
+<img id="c" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408972-11795-DSC_0704.jpg"/>
+<img id="d" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409090-11975-DSC_0731.jpg"/>
+<img id="e" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408991-11895-DSC_0705.jpg"/>
+<img id="f" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409013-11927-DSC_0719.jpg"/>
+<img id="g" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409058-11944-DSC_0722a.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408892-11705-45-Rosenthal-St-Doonside.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.771532]]></Latitude>
+<Longitude><![CDATA[150.877742]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

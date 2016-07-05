@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-04-10:37:06" username="commaust" password="commaust">
+<residential modTime="2016-05-04-09:39" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9682506</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">320000</price>
+<priceView>$320,000-$340,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>8/53</streetNumber>
+<street>SADDINGTON STREET</street>
+<suburb display="yes">ST MARYS</suburb>
+<state>NSW</state>
+<postcode>2760</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CALM AND COLLECTIVE]]></headline>
+<description><![CDATA[If you want to invest one of the fastest growing suburb or if you want to live in vibrant location then this is the property for you!
+Great size 2-bedroom unit with a garage, including a complete brick construction, well-equipped kitchen with electric cooktops, and an oven. Having close by shopping centres and schools are just an added bonus!
+
+-	First floor position and opening to an entertainers' balcony.
+-	Substantial bathroom with separate shower and bath.
+-	Internal laundry plus an allocated single garage.
+-	Well maintained, full brick building.
+-	Moments to shopping centre, parks and schools.
+-	Great quiet lifestyle as a private home or desirable investment property.
+PLEASE CONTACT YOUR EXCLUSIVE AGENT AB PROPERTY CONSULTANTS ON 0410567777 OR 0402961515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>07-May-2016 09:00AM to 09:30AM</inspection>
+<inspection>08-May-2016 11:00AM to 11:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5548-IMG4972a.jpg"/>
+<img id="a" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8583-IMG4976.jpg"/>
+<img id="b" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/22798-IMG4979.jpg"/>
+<img id="c" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10700-IMG4984.jpg"/>
+<img id="d" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11635-IMG4988.jpg"/>
+<img id="e" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27731-IMG4993.jpg"/>
+<img id="f" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/14966-IMG5001.jpg"/>
+<img id="g" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/17522-IMG5005.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-04-09:38" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/22103-8-53-sadington-st-st-marys.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.772205]]></Latitude>
+<Longitude><![CDATA[150.770681]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

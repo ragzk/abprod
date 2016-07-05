@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-01-27-18:37:05" username="commaust" password="commaust">
+<residential modTime="2016-01-27-17:52" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8987817</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender (Jeet) Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">490000</price>
+<priceView>$490,000-$510,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>11/39-47</streetNumber>
+<street>Wellington Road</street>
+<suburb display="yes">SOUTH GRANVILLE</suburb>
+<state>NSW</state>
+<postcode>2142</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[ATTENTION FIRST HOME BUYERS AND INVESTORS !!!]]></headline>
+<description><![CDATA[Superb opportunity arises for the first-home buyer or astute investor looking to acquire a fantastic two-storey residence situated in one of most popular streets! Located close to all amenities, public transport and school. Furthermore, we are spoilt for choices with shops and supermarket just around the corner where council proposed three storey mixed use development complex comprising of twenty-one shops and a supermarket. Boasting immaculate finishes, beautiful Bamboo flooring throughout and all the modern features, this gorgeous townhouse exuberates value.
+
+&bull; Main bedroom with fully tiled ensuits,  built in and balcony
+&bull; Second bedrooms with built in and balcony
+&bull; Spacious separate living area
+&bull; Modern open plan kitchen with gas cooking, granite bench top and dining space
+&bull; Modern fully tiled second bathroom and bath tub
+&bull; Stunning front yard with easy maintenance garden and back yard for entertainment
+&bull; Internal laundry with extra w/c
+&bull; Car space in secured car park
+&bull; Low strata, enough storage space and high rent potential
+
+Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agents' Atul Bhanushali on 0402 961 515 and Tanmay Goswami 0447 270 063.
+
+Reference for proposed development complex: http://www.jrpp.nsw.gov.au/DevelopmentRegister/tabid/62/ctl/view/mid/424/JRPP_ID/2194/language/en-AU/Default.aspx]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815764-19769-IMG_0402.jpg"/>
+<img id="a" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815858-20318-IMG_0408a.jpg"/>
+<img id="b" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815925-20704-IMG_0411a.jpg"/>
+<img id="c" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815568-19208-IMG_0382.jpg"/>
+<img id="d" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815600-19361-IMG_0386.jpg"/>
+<img id="e" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815633-19476-IMG_0389.jpg"/>
+<img id="f" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815664-24084-IMG_0395.jpg"/>
+<img id="g" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447815789-20146-IMG_0407.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-11-18-13:06" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1447823185-28359-11-39-47-wellington-road-south-granville-.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.862374]]></Latitude>
+<Longitude><![CDATA[151.010692]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

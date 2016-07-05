@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-05-12:37:05" username="commaust" password="commaust">
+<residential modTime="2016-02-05-12:12" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9302402</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">620000</price>
+<priceView>$620,000-$680,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>64/75-83</streetNumber>
+<street>Windsor Road</street>
+<suburb display="yes">NORTHMEAD</suburb>
+<state>NSW</state>
+<postcode>2152</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[JUST LIKE BRAND NEW !!]]></headline>
+<description><![CDATA[Positioned on the quiet side of the brilliant complex, this architecturally designed nearly new contemporary and large apartment offers open plan deluxe living with magnificently spacious layout. It is situated on most convenient location; mins walk to Northmead Plaza, frequent bus services to Parramatta CBD and Westmead Hospitals.
+&bull;Two great size bedrooms open in a balcony, main with large wardrobe and en-suite.
+&bull;Enormous living and dining area equipped with air conditioner flowing into a spacious balcony.
+&bull;Modern kitchens furnished with stone bench-tops and stainless steel appliances with dishwasher and gas cooking.
+&bull;Stylish fully tiled main bathroom with separate shower screen and bathtub.
+&bull;Large Laundry with huge internal storage area.
+&bull;One secure underground car space.
+Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>06-Feb-2016 09:00AM to 09:30AM</inspection>
+<inspection>07-Feb-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644138-15784-IMG_4603a.jpg"/>
+<img id="a" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644318-14685-IMG_4642.jpg"/>
+<img id="b" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644276-14503-IMG_4639.jpg"/>
+<img id="c" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644154-15933-IMG_4607.jpg"/>
+<img id="d" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644178-14032-IMG_4620.jpg"/>
+<img id="e" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644194-16043-IMG_4626.jpg"/>
+<img id="f" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644222-14207-IMG_4629.jpg"/>
+<img id="g" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454644248-14396-IMG_4634.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-05-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454645323-23759-64-75-83-windsor-road-northmead.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.786759]]></Latitude>
+<Longitude><![CDATA[150.9958]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

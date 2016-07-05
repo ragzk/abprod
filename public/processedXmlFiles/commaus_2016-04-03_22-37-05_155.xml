@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-03-22:37:05" username="commaust" password="commaust">
+<residential modTime="2016-04-03-21:43" status="sold">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8017438</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">1070000</price>
+<priceView>$1,070,000-$1,150,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>21</streetNumber>
+<street>Robbs Place</street>
+<suburb display="yes">DUNDAS VALLEY</suburb>
+<state>NSW</state>
+<postcode>2117</postcode>
+</address>
+<category name="DuplexSemi-detached"/>
+<headline><![CDATA[SOLD by AB Property Consultants-0402961515/0410567777-many more wanted]]></headline>
+<description><![CDATA[Defined by its contemporary and architecturally designed, superb appointments to impressive dual level layout, this extraordinary brand-new and luxurious residence is an idyllic family retreat. Located to commanding position on the high side with bird's eye view, it is only footsteps to buses, parks and schools.
+
+&bull;	Four great size bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite plus balcony with panorama view. Other three bedrooms fitted with built-in robs.
+&bull;	Modern open plan Kitchen fitted with stainless steel oven and gas cooktop, dishwasher and walk-in pantry.
+&bull;	Bright open lounge and dining area.
+&bull;	Luxurious fully tiled main bathroom with separate bathtub and shower area.
+&bull;	Home office/study area enclosed with extra storage.
+&bull;	Single lock-up garage with internal access.
+&bull;	Ducted air-conditioning.
+&bull;	Security features, including intercom and alarm.
+&bull;	Good size alfresco for the family entertainment and low maintenance backyard.
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live the life of modern, convenience and peaceful living.
+Be quick because this excellent opportunity will not last long. With owner determined to SELL- WILL CONSIDER OFFERS BEFORE AUCTION, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998828-16687-IMG_4859a.jpg"/>
+<img id="a" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998878-12985-IMG_4867a.jpg"/>
+<img id="b" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999092-14105-IMG_4917a.jpg"/>
+<img id="c" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998900-13212-IMG_4880.jpg"/>
+<img id="d" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998953-13685-IMG_4895.jpg"/>
+<img id="e" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998932-17436-IMG_4887.jpg"/>
+<img id="f" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998976-13762-IMG_4901.jpg"/>
+<img id="g" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998999-13860-IMG_4905.jpg"/>
+<img id="h" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998916-13449-IMG_4883.jpg"/>
+<img id="i" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999050-13964-IMG_4915a.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998792-16673-21-Robbs-place-dundas-valley.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8017538]]></Latitude>
+<Longitude><![CDATA[150.9559751]]></Longitude>
+</Geocode>
+
+<soldDetails>
+<price display="no" plusSAV="no">1070000</price>
+<date>2016-04-03-00:00:00</date>
+</soldDetails>
+
+</residential>
+</propertyList>
+   

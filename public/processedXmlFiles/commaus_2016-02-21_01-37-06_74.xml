@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-21-01:37:06" username="commaust" password="commaust">
+<rental modTime="2016-02-21-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9332330</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-03-05-00:00</dateAvailable>
+<rent display="yes" period="week">430</rent>
+<priceView></priceView>
+<bond>1720</bond>
+
+
+
+<address display="yes">
+<streetNumber>4/67</streetNumber>
+<street>Lane Street</street>
+<suburb display="yes">WENTWORTHVILLE</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[FANTASTIC LOATION!!!]]></headline>
+<description><![CDATA[Enviably located in a quiet street, this smartly presented apartment offers a peaceful lifestyle. It is an idyllic retreat situated on the first floor of a well maintained complex within a short stroll of shops, schools and Wentworthville Station.
+
+-	2 spacious bedrooms with built in to main, 
+-	open plan lounge & dining overlooking leafy balcony, 
+-	generous kitchen featuring mosaic splashback and stainless steel appliances including dishwasher and floorboards 
+-	family bathroom with bath tub and shower plus separate w/c
+-	internal laundry with dryer,
+-	single lock up garage with additional storage space. 
+
+Be quick, inspect today or it will be gone. Please contact your exclusive agents' Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony,Dishwasher</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997374-8319-IMG_1064.JPG"/>
+<img id="a" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997215-7586-IMG_1016.JPG"/>
+<img id="b" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997229-7634-IMG_1033.JPG"/>
+<img id="c" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997261-3118-IMG_1042.JPG"/>
+<img id="d" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997301-7837-IMG_1048.JPG"/>
+<img id="e" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997322-8208-IMG_1052.JPG"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-10-09:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454997201-7573-4-67-73-lane-street-wentworthville.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8128153]]></Latitude>
+<Longitude><![CDATA[150.9718002]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

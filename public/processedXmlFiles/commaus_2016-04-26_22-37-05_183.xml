@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-26-22:37:05" username="commaust" password="commaust">
+<residential modTime="2016-04-26-22:14" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9398029</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">875000</price>
+<priceView>$875,000-$899,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>8</streetNumber>
+<street>STATION ROAD</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[LUCKY NUMBER 8!]]></headline>
+<description><![CDATA[Immaculately presented and tastefully renovated, this delightful home combines all of the fundamental elements needed for private family living and entertaining. This quality house exuberates value providing a perfect position within minutes walk to train station, shopping centre and schools. 
+
+&bull;	4 Good-sized bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite; other two bedrooms fitted with built-in rob.
+&bull;	Giving you convenience and comfort this property is fitted with brand new Samsung 14kw inverter ducted Aircon. All Bedrooms,Living, Family and Dining areas are now fitted with reverse cycle inverter ducts.
+&bull;	Contemporary near new open plan Kitchen open in dining area fitted with stainless steel oven and gas cooktop, dishwasher and plenty of storage spaces.
+&bull;	Modern fully tiled main bathroom with separate bathtub and shower.
+&bull;	Two living areas that includes a large modern family room. This family room is the perfect place for the whole family to relax and unwind on the less formal occasions which flows through to the enclosed cover outdoor entertainment area with pergola perfect for BBQ's while the kids play in the secure backyard.
+&bull;	Oversized single garage with laundry provisions.
+&bull;            Near new drive way, very recent external rendering, roof paint and restoration, new front and backyard landscaping----they are just few to mention adding to your comfort and lifestyle 
+&bull;	Other inclusions are roller shutters to the front windows and three ceiling fans
+
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live close to shopping complex and train station. 
+
+Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">563</area>
+</landDetails>
+<inspectionTimes>
+<inspection>30-Apr-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300115-24619-IMG_6894a.jpg"/>
+<img id="a" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299886-23707-IMG_6862a.jpg"/>
+<img id="b" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299939-23998-IMG_6874.jpg"/>
+<img id="c" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300056-24463-IMG_6890.jpg"/>
+<img id="d" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299968-24107-IMG_6879.jpg"/>
+<img id="e" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300006-24188-IMG_6881.jpg"/>
+<img id="f" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300030-23549-IMG_6887.jpg"/>
+<img id="g" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299911-23927-IMG_6872.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1457923776-21656-FP-hires-8stationrdtoongabbieUPDATED.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.783944]]></Latitude>
+<Longitude><![CDATA[150.953186]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

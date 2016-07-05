@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-06-06-12:37:05" username="commaust" password="commaust">
+<rental modTime="2016-06-06-12:04" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9818126</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-06-16-00:00</dateAvailable>
+<rent display="yes" period="week">480</rent>
+<priceView></priceView>
+<bond>1920</bond>
+
+
+
+<address display="no">
+<streetNumber>29/17-25</streetNumber>
+<street>ELIZABETH STREET</street>
+<suburb display="yes">PARRAMATTA</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Freshly Painted 2 Bedroom Sought After River Precinct-2 Balconies. Huge Lock Up Garage-Walk to all Parramatta Amenities]]></headline>
+<description><![CDATA[Spacious unit in fantastic location. Stroll to tranquil Parramatta River & all Parramatta city amenities. Huge open living area. Lounge & dining both opening to sunny balconies with leafy outlook. Large main bedroom with built-in robe. Modern kitchen. Separate bath & shower. Separate toilet. Internal laundry.lock up garage. Enjoy privacy & security on top floor. East to West facing. NEW FLOOR BOARDS AND FRESHLY PAINTED.
+
+Quiet block featuring tennis court & swimming pool. Fantastic location. Stroll to Parramatta river foreshore for leisurely walks, festivals. Walk to vibrant Eat Street restaurants & cafes. 10 minutes' walk to Westfield Shopping, train station, RiverCat ferry terminal & picturesque Parramatta Park. 
+
+Please contact your Exclusive Agent AB Property Consultants on 0470602056/0402961515 for viewing and application form.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-06-12:04" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9947-maxresdefault.jpg"/>
+<img id="a" />
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.81056]]></Latitude>
+<Longitude><![CDATA[151.008481]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

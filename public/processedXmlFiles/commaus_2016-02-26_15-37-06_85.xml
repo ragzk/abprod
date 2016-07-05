@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-26-15:37:06" username="commaust" password="commaust">
+<residential modTime="2016-02-26-15:01" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9385514</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">695000</price>
+<priceView>$695,000-$749,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>18</streetNumber>
+<street>Coachwood Drive</street>
+<suburb display="yes">CLAREMONT MEADOWS</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[THE WOW FACTOR!-FABULOUS FAMILY HOME]]></headline>
+<description><![CDATA[This splendid modern residence offers a rare opportunity to own a premium contemporary designed home with exceptional comfort and style. This stunning beautiful family house will tick all the boxes with its impressive modern dual level layout that includes a clever design to maximize the space. Situated overlooking the park while it still maintains its privacy, which is seldom found in community style peaceful leaving.
+
+
+&bull;	Four great size bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suit. Other three bedrooms fitted with built-in robe.
+&bull;	The capital style kitchen with caesar stone island bench equipped with stainless steel oven, gas cooktop, dishwasher and walk-in pantry.
+&bull;	Spacious modern main bathroom with separate bathtub and shower area. 
+&bull;	Two large living areas
+&bull;	The back yard has large covered entertainment area for the great family barbecue and for children to play around.
+&bull;	Internal Laundry with storage and additional W/C Toilet
+&bull;	Ducted Air con and Rain water tank
+&bull;	Internal access to double tandem automatic garage.
+
+With easy access to the M4 and Greater Western Hwy, this house is perfectly presented close to Penrith CBD, University of Western Sydney  (Penrith Campus) and Nepean Hospital and quality schools.  
+
+This home is ready to move in and there is nothing to do. With owner determined to SELL, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469744-25874-IMG_7139a.jpg"/>
+<img id="a" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469509-24490-IMG_7107a.jpg"/>
+<img id="b" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469564-24800-IMG_7110a.jpg"/>
+<img id="c" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469588-24968-IMG_7114.jpg"/>
+<img id="d" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469609-25076-IMG_7125.jpg"/>
+<img id="e" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469637-25215-IMG_7130.jpg"/>
+<img id="f" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469671-25310-IMG_7134.jpg"/>
+<img id="g" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469694-25806-IMG_7137.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-26-15:01" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456469467-24635-18CoachwoodDriveClaremontMeadows.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.7811177]]></Latitude>
+<Longitude><![CDATA[150.7553991]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

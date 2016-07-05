@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-21-17:37:05" username="commaust" password="commaust">
+<residential modTime="2016-05-21-16:42" status="sold">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9598179</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">700000</price>
+<priceView>$700,000-$740,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>12</streetNumber>
+<street>Wall Park Avenue</street>
+<suburb display="yes">SEVEN HILLS</suburb>
+<state>NSW</state>
+<postcode>2147</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[EXPRESS SALE-PRICED TO SELL !]]></headline>
+<description><![CDATA[Beautiful rectangular approx. 621 SQM block with DA approved for Granny Flat offers an opportunity to investor seeking a high yielding rental potential or to the family seeking a moderately renovated home with big backyard for kids to play. 
+
+Features
+
+&bull;	Three good size bedrooms
+&bull;	Separate generous size lounge
+&bull;	Renovated large modern kitchen with dining area
+&bull;	Renovated fully tiled bathroom
+&bull;	Internal laundry
+&bull;	Double size carport
+
+This magnificent home will most certainly be suitable for all families/investors who are looking live close to shopping complex, train station and schools. Owner has made decision to sell, so don't delay, your inspection is must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-21-16:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/23077-Lounge.jpeg"/>
+<img id="a" modTime="2016-05-21-16:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5396-Kitchen.jpg"/>
+<img id="b" modTime="2016-05-21-16:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15481-Backyard.jpg"/>
+<img id="c" modTime="2016-05-21-16:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15506-Bathroom.jpg"/>
+<img id="d" modTime="2016-05-21-16:39" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27763-FrontPhoto.jpg"/>
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.777771]]></Latitude>
+<Longitude><![CDATA[150.930397]]></Longitude>
+</Geocode>
+
+<soldDetails>
+<price display="yes" plusSAV="no">705000</price>
+<date>2016-05-21-00:00:00</date>
+</soldDetails>
+
+</residential>
+</propertyList>
+   

@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-18-21:37:05" username="commaust" password="commaust">
+<rental modTime="2016-04-18-20:57" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8867134</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-26-00:00</dateAvailable>
+<rent display="yes" period="week">445</rent>
+<priceView></priceView>
+<bond>1780</bond>
+
+
+
+<address display="yes">
+<streetNumber>28/32</streetNumber>
+<street>Station Street</street>
+<suburb display="yes">DUNDAS</suburb>
+<state>NSW</state>
+<postcode>2117</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[MUST BE LEASED]]></headline>
+<description><![CDATA[Conveniently located within minutes to all amenities including shops & multicultural eateries, schools, Dundas train station is this modern one bedroom apartment having following features:
+
+&bull; open plan living with aircon excess to large L shape balcony 
+&bull; specious bedrooms with built-ins and carpeted through.
+&bull; gourmet kitchen with gas cook top and Granite bench top
+&bull; ultra-modern bathroom
+&bull; internal laundry with dryer
+&bull; security complex & security parking
+&bull; long term lease to good tenant
+Be the first one to start live-in this brand new apartment. Electricity and Gas bills are included.
+Don't hesitate or it will be gone. Please ring your Exclusive agents Atul Bhanushali on 0402961515 or Tanmay Goswami on 0447270063]]></description>
+<features>
+<bedrooms>1</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384000-29353-IMG-20151020-WA0011.jpg"/>
+<img id="a" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384004-32307-IMG-20151020-WA0012.jpg"/>
+<img id="b" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384008-29397-IMG-20151020-WA0013.jpg"/>
+<img id="c" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384012-32334-IMG-20151020-WA0014.jpg"/>
+<img id="d" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384015-32367-IMG-20151020-WA0015.jpg"/>
+<img id="e" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384020-32405-IMG-20151020-WA0016.jpg"/>
+<img id="f" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384024-32419-IMG-20151020-WA0017.jpg"/>
+<img id="g" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384028-32432-IMG-20151020-WA0018.jpg"/>
+<img id="h" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384032-32445-IMG-20151020-WA0019.jpg"/>
+<img id="i" modTime="2016-04-18-20:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1445384042-29503-signedagreement.jpeg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8037521]]></Latitude>
+<Longitude><![CDATA[151.0340349]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

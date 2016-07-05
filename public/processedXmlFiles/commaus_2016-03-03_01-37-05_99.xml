@@ -1,0 +1,294 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-03-01:37:05" username="commaust" password="commaust">
+<residential modTime="2016-03-03-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8017438</uniqueID>
+<authority value="auction" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="no">1150000</price>
+<priceView>Auction</priceView>
+
+
+
+<address display="yes">
+<streetNumber>21</streetNumber>
+<street>Robbs Place</street>
+<suburb display="yes">DUNDAS VALLEY</suburb>
+<state>NSW</state>
+<postcode>2117</postcode>
+</address>
+<category name="DuplexSemi-detached"/>
+<headline><![CDATA[AUCTION 5TH MARCH 12PM-INSTRUCTIONS TO SELL]]></headline>
+<description><![CDATA[Defined by its contemporary and architecturally designed, superb appointments to impressive dual level layout, this extraordinary brand-new and luxurious residence is an idyllic family retreat. Located to commanding position on the high side with bird's eye view, it is only footsteps to buses, parks and schools.
+
+&bull;	Four great size bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite plus balcony with panorama view. Other three bedrooms fitted with built-in robs.
+&bull;	Modern open plan Kitchen fitted with stainless steel oven and gas cooktop, dishwasher and walk-in pantry.
+&bull;	Bright open lounge and dining area.
+&bull;	Luxurious fully tiled main bathroom with separate bathtub and shower area.
+&bull;	Home office/study area enclosed with extra storage.
+&bull;	Single lock-up garage with internal access.
+&bull;	Ducted air-conditioning.
+&bull;	Security features, including intercom and alarm.
+&bull;	Good size alfresco for the family entertainment and low maintenance backyard.
+&bull;	Price guide is $1.15 Million-$1.2 Million
+
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live the life of modern, convenience and peaceful living.
+Be quick because this excellent opportunity will not last long. With owner determined to SELL- WILL CONSIDER OFFERS BEFORE AUCTION, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>05-Mar-2016 11:30AM to 12:00PM</inspection>
+</inspectionTimes>
+<auction date="2016-03-05-12:00"/>
+<auctionVenue><![CDATA[ONSITE]]></auctionVenue>
+
+<images>
+<img id="m" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998828-16687-IMG_4859a.jpg"/>
+<img id="a" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998878-12985-IMG_4867a.jpg"/>
+<img id="b" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999092-14105-IMG_4917a.jpg"/>
+<img id="c" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998900-13212-IMG_4880.jpg"/>
+<img id="d" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998953-13685-IMG_4895.jpg"/>
+<img id="e" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998932-17436-IMG_4887.jpg"/>
+<img id="f" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998976-13762-IMG_4901.jpg"/>
+<img id="g" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998999-13860-IMG_4905.jpg"/>
+<img id="h" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998916-13449-IMG_4883.jpg"/>
+<img id="i" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999050-13964-IMG_4915a.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998792-16673-21-Robbs-place-dundas-valley.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8017538]]></Latitude>
+<Longitude><![CDATA[150.9559751]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-03-03-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9240280</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-02-26-00:00</dateAvailable>
+<rent display="yes" period="week">440</rent>
+<priceView></priceView>
+<bond>1760</bond>
+
+
+
+<address display="yes">
+<streetNumber>5/11</streetNumber>
+<street>Allen Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[2 BEDROOM PUS STORAGE ROOM]]></headline>
+<description><![CDATA[Spacious 2 bedroom unit that also comes with a storage room. Located on the 2nd floor of a security complex, the unit features a large tiled living area, brand new blinds,timber kitchen with brand new cooktop, built-in to the spacious main bedroom, internal laundry & balcony. Located close to train station, shops & schools.
+Please contact your Exclusive agent Atul Bhanushali on 0402961515 before it is leased.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331090-6368-main.jpg"/>
+<img id="a" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331080-6340-image4.jpg"/>
+<img id="b" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331082-14187-image5.jpg"/>
+<img id="c" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331078-14173-image3.jpg"/>
+<img id="d" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331075-6326-image2.jpg"/>
+<img id="e" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331084-6354-image6.jpg"/>
+<img id="f" modTime="2016-02-01-20:55" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454331087-14201-image7.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.824901]]></Latitude>
+<Longitude><![CDATA[151.011853]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<residential modTime="2016-03-03-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9398029</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">820000</price>
+<priceView>$820,000-$880,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>8</streetNumber>
+<street>STATION ROAD</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[LUCKY NUMBER 8!]]></headline>
+<description><![CDATA[Immaculately presented and tastefully renovated, this delightful home combines all of the fundamental elements needed for private family living and entertaining. This quality house exuberates value providing a perfect position within minutes walk to train station, shopping centre and schools. 
+
+&bull;	4 Good-sized bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite; other two bedrooms fitted with built-in rob.
+&bull;	Contemporary near new open plan Kitchen open in dining area fitted with stainless steel oven and gas cooktop, dishwasher and plenty of storage spaces.
+&bull;	Modern fully tiled main bathroom with separate bathtub and shower.
+&bull;	Two living areas that includes a large modern family room. This family room is the perfect place for the whole family to relax and unwind on the less formal occasions which flows through to the enclosed cover outdoor entertainment area with pergola perfect for BBQ's while the kids play in the secure backyard.
+&bull;	Oversized single garage with laundry provisions.
+&bull;            Near new drive way, very recent external rendering, roof paint and restoration, new front and backyard landscaping----they are just few to mention adding to your comfort and lifestyle 
+&bull;	Other inclusions are roller shutters to the front windows and three ceiling fans
+
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live close to shopping complex and train station. 
+
+Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">563</area>
+</landDetails>
+<inspectionTimes>
+<inspection>05-Mar-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300115-24619-IMG_6894a.jpg"/>
+<img id="a" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299886-23707-IMG_6862a.jpg"/>
+<img id="b" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299939-23998-IMG_6874.jpg"/>
+<img id="c" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300056-24463-IMG_6890.jpg"/>
+<img id="d" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299968-24107-IMG_6879.jpg"/>
+<img id="e" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300006-24188-IMG_6881.jpg"/>
+<img id="f" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300030-23549-IMG_6887.jpg"/>
+<img id="g" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299911-23927-IMG_6872.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-24-20:32" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299821-23669-FP-hires-8stationrdtoongabbie.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.783944]]></Latitude>
+<Longitude><![CDATA[150.953186]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

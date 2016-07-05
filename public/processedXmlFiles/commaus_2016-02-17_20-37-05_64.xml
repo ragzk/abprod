@@ -1,0 +1,188 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-17-20:37:05" username="commaust" password="commaust">
+<residential modTime="2016-02-17-19:49" status="sold">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9198535</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">599000</price>
+<priceView>$599,000-$649,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>4616/57-59</streetNumber>
+<street>Queen Street</street>
+<suburb display="yes">AUBURN</suburb>
+<state>NSW</state>
+<postcode>2144</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[SOLD BY AB PROPERTY CONSULTANTS-0402961515]]></headline>
+<description><![CDATA[Positioned on the top floor with district views and bathed in natural light, this 
+sensational 3 bedrooms apartment offer a generous floor plan for the large family with an open plan living area.  Located in the centre of Auburn with approx. 2 min walk to train station, town centre, schools and restaurants directly below. 
+
+&bull;3 Good size bedrooms with built in wardrobes and en-suite to main bedroom.
+&bull;Open plan lounge and dining with air conditioner
+&bull;Beautiful kitchen equipped with gas cooktop, dishwasher and granite bench tops
+&bull;Fully tiled spacious main bathroom
+&bull;Large wrap around eastern aspect balcony/terrace as well as huge common area
+&bull;Spacious internal laundry with dryer
+&bull;Two secure car space 
+This gorgeous complex exuberates value providing high rental potential and walking distance to all amenities including Woolworth and Big W Supermarket train station, Cafes and Restaurants 
+
+With owner determined to SELL, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664586-9712-IMG_2112.jpg"/>
+<img id="a" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664644-1916-IMG_2117.jpg"/>
+<img id="b" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664451-1286-IMG_2094b.jpg"/>
+<img id="c" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664523-1552-IMG_2106.jpg"/>
+<img id="d" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664488-9554-IMG_2099.jpg"/>
+<img id="e" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664368-1213-IMG_2087.jpg"/>
+<img id="f" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664332-1158-IMG_2083.jpg"/>
+<img id="g" modTime="2016-01-23-18:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452664302-917-IMG_2076.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.849953]]></Latitude>
+<Longitude><![CDATA[151.031609]]></Longitude>
+</Geocode>
+
+<soldDetails>
+<price display="no" plusSAV="no">600000</price>
+<date>2016-02-05-00:00:00</date>
+</soldDetails>
+
+</residential>
+<land modTime="2016-02-17-19:52" status="current">
+<agentID>27140</agentID>
+<uniqueID>9366621</uniqueID>
+<authority value="exclusive" />
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">349000</price>
+<priceView>$349,000-$379,000</priceView>
+<address display="no">
+<streetNumber>LOT 419</streetNumber>
+<street>GUILLEMONT ROAD</street>
+<suburb display="yes">EDMONDSON PARK</suburb>
+<state>NSW</state>
+<postcode>2174</postcode>
+</address>
+<landcategory name="Residential"/>
+<headline><![CDATA[INSTRUCTIONS TO SELL]]></headline>
+<description><![CDATA[Don't delay in securing this wonderful parcel of land that provides you the perfect opportunity to build with your own builder to ensure that your dream home is everything that you hoped it would be.
+
+With multiple parks, recreation spots and multiple children's playgrounds, this estate is ideal for outdoor living.  This is situated next to the exclusive Denham Court and conveniently close to local schools, minutes to Edmondson Park Railway Station, local shopping facilities, the M5 and M7 motorways.
+
+Features:
+
+&bull;Approx. 250 sqm block of land
+&bull;Frontage: 10m approx.
+&bull;Depth: 25m approx.
+
+Edmondson Park is fast becoming a community with modern amenities and a fantastic family-friendly lifestyle. If you want to be a part of this up and coming area and enjoy the benefits of ideal location, then please make sure you submit offer before it is sold. Please contact your exclusive agent Jitender Singh on 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<images>
+<img id="m" modTime="2016-02-17-17:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455701325-11454-home-aerial3.jpg"/>
+<img id="a" modTime="2016-02-17-17:30" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455701336-11467-landedmondsonpark001.jpg"/>
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.9561646]]></Latitude>
+<Longitude><![CDATA[150.8630065]]></Longitude>
+</Geocode>
+
+</land>
+</propertyList>
+   

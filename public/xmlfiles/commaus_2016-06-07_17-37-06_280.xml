@@ -1,0 +1,406 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-06-07-17:37:06" username="commaust" password="commaust">
+<residential modTime="2016-06-07-16:38" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9733498</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">449950</price>
+<priceView>$449,950-$493,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10/180-182</streetNumber>
+<street>Station Street</street>
+<suburb display="yes">WENTWORTHVILLE</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[MOVE IN OR INVEST - WALK TO EVERYTHING!!]]></headline>
+<description><![CDATA[Offering exceptional value in an incredibly convenient location, this fresh apartment boasts a north facing aspect and a private outlook. It is set in a well-maintained secure block and is only moments to train station, shops, schools, major banks, medical centre and within easy access to M4, Cumberland Highway & Great Western Highway.
+
+Features:
+&bull;	Two sizeable bedrooms complete with built-in wardrobe in main
+&bull;	Bright spacious open planned lounge and dining
+&bull;	Large sundrenched entertainer's balcony with leafy outlook
+&bull;	Modern Kitchen with gas cooking and breakfast bar & plenty of cupboard spaces
+&bull;	Beautiful bathroom with separate bathtub and shower area
+&bull;	Internal laundry and lock up garage.
+
+It you want to live/invest close to all amenities, please do not miss the opportunity. Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>09-Jun-2016 06:30PM to 07:00PM</inspection>
+<inspection>11-Jun-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3234-IMG9454.jpg"/>
+<img id="a" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11336-IMG9468.jpg"/>
+<img id="b" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4446-IMG9482.jpg"/>
+<img id="c" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/22715-IMG9491.jpg"/>
+<img id="d" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5407-IMG9472.jpg"/>
+<img id="e" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29910-IMG9481.jpg"/>
+<img id="f" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11931-IMG9463.jpg"/>
+<img id="g" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29753-IMG9475.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-28-20:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4743-10-180-182-station-st-wentworthville.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-1]]></Latitude>
+<Longitude><![CDATA[-1]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-06-07-17:03" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9651375</uniqueID>
+<authority value="auction" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="no">349000</price>
+<priceView>Auction</priceView>
+
+
+
+<address display="yes">
+<streetNumber>12/49-51</streetNumber>
+<street>Victoria Street</street>
+<suburb display="yes">WERRINGTON</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[GREAT VALUE AND GREAT LOCATION!!]]></headline>
+<description><![CDATA[An exhilarating townhouse in great community based environment that is perfect for any personality! This double story home situated in neat & tidy complex and superb location within walking distance to the train station & Werrington shopping village, parks and sporting field.
+
+Features:
+
+&bull;	Two good size bedrooms with built-ins and air con in main
+&bull;	Well presented kitchen
+&bull;	Well-maintained bathroom with separate shower and bathtub attached with toilet.
+&bull;	A good sized courtyard for comfort with a great entertainment area
+&bull;	Internal laundry with extra toilet
+&bull;	A secure lock-up garage with additional storage
+&bull;       Price guide $390000-$430000
+
+If you want to invest one of the fastest growing suburb or if you want to live in spotless and comfortable home then this is the property for you. With owner determined to SELL, please contact your exclusive agent Jitender Singh on 0410 567 777 or Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>11-Jun-2016 12:30PM to 01:00PM</inspection>
+<inspection>12-Jun-2016 12:30PM to 01:00PM</inspection>
+</inspectionTimes>
+<auction date="2016-06-18-10:00"/>
+<auctionVenue><![CDATA[ONSITE]]></auctionVenue>
+
+<images>
+<img id="m" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10913-IMG9253.jpg"/>
+<img id="a" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/24389-IMG9205.jpg"/>
+<img id="b" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4499-IMG9224.jpg"/>
+<img id="c" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/26745-IMG9228.jpg"/>
+<img id="d" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6034-IMG9222.jpg"/>
+<img id="e" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/25149-IMG9211.jpg"/>
+<img id="f" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27159-IMG9244.jpg"/>
+<img id="g" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27594-IMG9246.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-25-10:19" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8120-12-49-victoria-st-werrington.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.757966]]></Latitude>
+<Longitude><![CDATA[150.759476]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-06-07-17:05" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9682785</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">280000</price>
+<priceView>$280,000-$300,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>27/65</streetNumber>
+<street>PARK AVE</street>
+<suburb display="yes">KINGSWOOD</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CONVENIENT YET PEACEFUL !]]></headline>
+<description><![CDATA[Are you are a bachelor or couple who is looking for bargain home to suit the modern Sydney lifestyle? Or an investor who wants his property to boom through time? Then this is the property for you! With the one bedroom apartment located just stone's stone throw away from Kingswood station, transport is surely not a problem!
+
+-	Separate kitchen with electric cooktops
+-	Formal lounge fitted with air con
+-	A bedroom that includes not only a wardrobe but an ensuite too
+-	Automatic secure shared garage
+-	Secured stairwell entry
+-	Next to Kingswood train station
+-	Close by to Western Sydney University and Nepean Hospital
+PLEASE CONTACT YOUR EXCLUSIVE AGENT AB PROPERTY CONSULTANTS ON 0410567777 OR 0402961515 BEFORE IT IS SOLD.]]></description>
+<features>
+<bedrooms>1</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>11-Jun-2016 10:00AM to 10:30AM</inspection>
+<inspection>12-Jun-2016 11:00AM to 11:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/21625-IMG5250.jpg"/>
+<img id="a" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8181-IMG5254.jpg"/>
+<img id="b" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27555-IMG5257.jpg"/>
+<img id="c" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11154-IMG5263.jpg"/>
+<img id="d" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8526-IMG5265.jpg"/>
+<img id="e" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29650-IMG5271.jpg"/>
+<img id="f" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6543-IMG5274.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/24634-27-65-park-ave-kingswood.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.758197]]></Latitude>
+<Longitude><![CDATA[150.72333]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-06-07-17:05" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9704591</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">480000</price>
+<priceView>$480,000-$500,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>20/51-57</streetNumber>
+<street>Meacher Street</street>
+<suburb display="yes">MOUNT DRUITT</suburb>
+<state>NSW</state>
+<postcode>2770</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[BLISSFULLY TRANQUIL TOWNHOUSE IN SUPERB POSITION!!]]></headline>
+<description><![CDATA[An exhilarating townhouse with everything on offer! This three bedroom two story gem is packed with positives. A great community based environment that is perfect for any personality! With schools for the children and a great shopping centre located within minutes from the property convenience is also not a worry!
+
+&bull;	Consists of two separate living areas located on both floors of the property
+&bull;	Three good size bedroom with built-in in main
+&bull;	Well presented kitchen with breakfast bar open in formal dining area
+&bull;	Well maintained bathroom with separate shower and bathtub area
+&bull;	A good sized courtyard for comfort with a great entertainment area
+&bull;	A secure lock-up garage with additional storage
+&bull;	A built in secure alarm system for added security and two air cons
+&bull;	A great sun drenched balcony located on the first floor with a nice park view
+
+If you want to invest one of the fastest growing suburb or if you want to live in spotless and comfortable home then this is the property for you. With owner determined to SELL, please contact your exclusive agent Jitender Singh on 0410 567 777 or Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>11-Jun-2016 11:15AM to 11:45AM</inspection>
+<inspection>12-Jun-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/20220-Mainshot.jpg"/>
+<img id="a" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/14929-balcony.jpg"/>
+<img id="b" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/17767-bathroom.jpg"/>
+<img id="c" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/23647-bckyard.jpg"/>
+<img id="d" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/23193-bedroom.jpg"/>
+<img id="e" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31620-bedroom.jpg"/>
+<img id="f" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29376-dining.jpg"/>
+<img id="g" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/22658-formalliving.jpg"/>
+<img id="h" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31658-kitchen.jpg"/>
+<img id="i" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/24778-living.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-11-08:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9433-FP-Web-2051-57-meacher-st-mount-druitt.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.760499]]></Latitude>
+<Longitude><![CDATA[150.826851]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

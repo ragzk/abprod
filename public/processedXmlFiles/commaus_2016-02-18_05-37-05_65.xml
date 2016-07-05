@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-18-05:37:05" username="commaust" password="commaust">
+<residential modTime="2016-02-18-04:38" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>7560786</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">470000</price>
+<priceView>$470,000-$510,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>7/13</streetNumber>
+<street>Brisbane Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[PERFECT LOCATON, EXCELLENT INVESTMENT!]]></headline>
+<description><![CDATA[This fully brick and well maintained apartment offers value to first home buyer and astute investor for strong growth and rental prospects. Situated towards the back section of the complex and open in the northern aspect balcony, this unit offers private and quiet surrounds.  This residence is conveniently located only few minutes stroll to Harris Park, Station, Local Shops, Schools, Parramatta CBD and much more.
+
+
+&bull;	Good size lounge flows to a sunny entertaining balcony for weekend brunches.
+&bull;	Substantial master bedroom equipped with built-in wardrobe and air-condition, 2nd bedroom with built-in robe.
+&bull;	Well-presented kitchen opens onto to the formal dining area. 
+&bull;	Generous renovated bathroom with shower screen.
+&bull;	Internal laundry with storage
+&bull;	Single large car space
+
+This gorgeous security complex exuberates value providing high rental potential. Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Atul Bhanushali on 0402 961 515 and Jitender Singh (Jeet) 0410 567 777.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Polished Timber Floor</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>20-Feb-2016 10:30AM to 11:00AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687370-3850-IMG_6004.jpg"/>
+<img id="a" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687398-7343-IMG_6012.jpg"/>
+<img id="b" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687426-7454-IMG_6016.jpg"/>
+<img id="c" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687497-7640-IMG_6026.jpg"/>
+<img id="d" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687521-4532-IMG_6029.jpg"/>
+<img id="e" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687474-4280-IMG_6022.jpg"/>
+<img id="f" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687447-7504-IMG_6019.jpg"/>
+<img id="g" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687571-7912-IMG_6032.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687626-8730-FP-web-7-13-brisbane-st-harris-park.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.82377]]></Latitude>
+<Longitude><![CDATA[151.011746]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

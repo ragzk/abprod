@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-11-01:37:05" username="commaust" password="commaust">
+<rental modTime="2016-02-11-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9321195</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-02-08-00:00</dateAvailable>
+<rent display="yes" period="week">530</rent>
+<priceView></priceView>
+<bond>2120</bond>
+
+
+
+<address display="yes">
+<streetNumber>2/24-26</streetNumber>
+<street>Lansdowne Street</street>
+<suburb display="yes">PARRAMATTA</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[2 BEDROOM PLUS Big Lock Up Garage with extra storage space ($480-$530 PER WEEK INCL ELECTRICITY)]]></headline>
+<description><![CDATA[Spacious 2-bedroom unit that also comes with a big lock up garage with storage space. Located on the 1st floor of a security complex with a huge balcony, the unit features a large timber flooring living area, tiled kitchen, built-ins in all the 2 bedrooms , tiled bathroom with bath tub & large balcony with a leafy outlook. Located close to train station, shops & schools. RENT ($480-$530 per week)INCLUDES ELECTRICITY BILL. DON'T MISS THE OPOORTUNITY. 
+Please contact your Exclusive agent Atul Bhanushali on 0402961515 before it is leased.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>13-Feb-2016 02:15PM to 02:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768280-18134-14661360702_f15a4b923b_b.jpg"/>
+<img id="a" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768014-18042-20160206_190816.jpg"/>
+<img id="b" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768053-15720-20160206_190937.jpg"/>
+<img id="c" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768090-18086-20160206_191021.jpg"/>
+<img id="d" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768165-18102-20160206_191611.jpg"/>
+<img id="e" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768188-15752-20160206_191622.jpg"/>
+<img id="f" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768225-18118-20160206_191642.jpg"/>
+<img id="g" modTime="2016-02-06-22:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454768275-15768-20160206_191954.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.821805]]></Latitude>
+<Longitude><![CDATA[151.002637]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

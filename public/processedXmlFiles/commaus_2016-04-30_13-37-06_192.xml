@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-30-13:37:06" username="commaust" password="commaust">
+<rental modTime="2016-04-30-13:02" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9638464</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-30-00:00</dateAvailable>
+<rent display="yes" period="week">365</rent>
+<priceView></priceView>
+<bond>1460</bond>
+
+
+
+<address display="yes">
+<streetNumber>8/49-51</streetNumber>
+<street>Victoria Street</street>
+<suburb display="yes">WERRINGTON</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[Beautiful Double Storey Town house with Lock Up Garage and Roof covered backyard BBQ Space [Only Few metres Walk to station]]]></headline>
+<description><![CDATA[Spacious 2 bedroom Town house that comes with a lock up garage with storage space. The house features a separate shower fully tiled with 2 separate toilets, spacious kitchen fully tiled, built-ins in all the 2 bedrooms with a leafy outlook.Located close to train station, shops & schools.Please contact your Exclusive agent Atul Bhanushali on 0402961515 before it is leased.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>30-Apr-2016 02:30PM to 03:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-25-19:50" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11530-IMG2559.JPG"/>
+<img id="a" />
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.757966]]></Latitude>
+<Longitude><![CDATA[150.759476]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

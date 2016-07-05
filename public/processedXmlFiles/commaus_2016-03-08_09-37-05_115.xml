@@ -1,0 +1,405 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-08-09:37:05" username="commaust" password="commaust">
+<residential modTime="2016-03-08-08:50" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>7560786</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">450000</price>
+<priceView>$450,000-$470,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>7/13</streetNumber>
+<street>Brisbane Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[PERFECT LOCATON, EXCELLENT INVESTMENT!]]></headline>
+<description><![CDATA[This fully brick and well maintained apartment offers value to first home buyer and astute investor for strong growth and rental prospects. Situated towards the back section of the complex and open in the northern aspect balcony, this unit offers private and quiet surrounds.  This residence is conveniently located only few minutes stroll to Harris Park, Station, Local Shops, Schools, Parramatta CBD and much more.
+
+
+&bull;	Good size lounge flows to a sunny entertaining balcony for weekend brunches.
+&bull;	Substantial master bedroom equipped with built-in wardrobe and air-condition, 2nd bedroom with built-in robe.
+&bull;	Well-presented kitchen opens onto to the formal dining area. 
+&bull;	Generous renovated bathroom with shower screen.
+&bull;	Internal laundry with storage
+&bull;	Single extra oversized car space and high potential rent
+
+This gorgeous security complex exuberates value providing high rental potential. Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Atul Bhanushali on 0402 961 515 and Jitender Singh (Jeet) 0410 567 777.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Polished Timber Floor</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>10-Mar-2016 06:30PM to 07:00PM</inspection>
+<inspection>12-Mar-2016 10:30AM to 11:00AM</inspection>
+<inspection>13-Mar-2016 09:30AM to 10:00AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687370-3850-IMG_6004.jpg"/>
+<img id="a" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687398-7343-IMG_6012.jpg"/>
+<img id="b" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687426-7454-IMG_6016.jpg"/>
+<img id="c" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687497-7640-IMG_6026.jpg"/>
+<img id="d" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687521-4532-IMG_6029.jpg"/>
+<img id="e" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687474-4280-IMG_6022.jpg"/>
+<img id="f" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687447-7504-IMG_6019.jpg"/>
+<img id="g" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687571-7912-IMG_6032.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-17-14:34" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1455687626-8730-FP-web-7-13-brisbane-st-harris-park.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.82377]]></Latitude>
+<Longitude><![CDATA[151.011746]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-03-08-08:56" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8017438</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">1070000</price>
+<priceView>$1,070,000-$1,150,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>21</streetNumber>
+<street>Robbs Place</street>
+<suburb display="yes">DUNDAS VALLEY</suburb>
+<state>NSW</state>
+<postcode>2117</postcode>
+</address>
+<category name="DuplexSemi-detached"/>
+<headline><![CDATA[INSTRUCTIONS TO SELL]]></headline>
+<description><![CDATA[Defined by its contemporary and architecturally designed, superb appointments to impressive dual level layout, this extraordinary brand-new and luxurious residence is an idyllic family retreat. Located to commanding position on the high side with bird's eye view, it is only footsteps to buses, parks and schools.
+
+&bull;	Four great size bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite plus balcony with panorama view. Other three bedrooms fitted with built-in robs.
+&bull;	Modern open plan Kitchen fitted with stainless steel oven and gas cooktop, dishwasher and walk-in pantry.
+&bull;	Bright open lounge and dining area.
+&bull;	Luxurious fully tiled main bathroom with separate bathtub and shower area.
+&bull;	Home office/study area enclosed with extra storage.
+&bull;	Single lock-up garage with internal access.
+&bull;	Ducted air-conditioning.
+&bull;	Security features, including intercom and alarm.
+&bull;	Good size alfresco for the family entertainment and low maintenance backyard.
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live the life of modern, convenience and peaceful living.
+Be quick because this excellent opportunity will not last long. With owner determined to SELL- WILL CONSIDER OFFERS BEFORE AUCTION, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>08-Mar-2016 06:30PM to 07:00PM</inspection>
+<inspection>10-Mar-2016 06:30PM to 07:00PM</inspection>
+<inspection>12-Mar-2016 11:30AM to 12:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998828-16687-IMG_4859a.jpg"/>
+<img id="a" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998878-12985-IMG_4867a.jpg"/>
+<img id="b" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999092-14105-IMG_4917a.jpg"/>
+<img id="c" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998900-13212-IMG_4880.jpg"/>
+<img id="d" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998953-13685-IMG_4895.jpg"/>
+<img id="e" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998932-17436-IMG_4887.jpg"/>
+<img id="f" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998976-13762-IMG_4901.jpg"/>
+<img id="g" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998999-13860-IMG_4905.jpg"/>
+<img id="h" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998916-13449-IMG_4883.jpg"/>
+<img id="i" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454999050-13964-IMG_4915a.jpg"/>
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-01-18:41" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454998792-16673-21-Robbs-place-dundas-valley.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8017538]]></Latitude>
+<Longitude><![CDATA[150.9559751]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-03-08-08:58" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9293566</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">549000</price>
+<priceView>$549,000-$600,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>45</streetNumber>
+<street>Rosenthal Street</street>
+<suburb display="yes">DOONSIDE</suburb>
+<state>NSW</state>
+<postcode>2767</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[BRICK VENEER HOUSE AT AN AFFORDABLE PRICE!!]]></headline>
+<description><![CDATA[Immaculately presented and well maintained, this delightful home combines all of the fundamental elements needed for private family living and entertaining. This quality brick veneer house exuberates value providing a perfect position opposite to Doonside Shopping Centre and within walking distance to transport and schools. 
+
+&bull;	3 Good-sized bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite, other two bedrooms fitted with built-in robs.
+&bull;	Well-presented kitchen equipped with gas cooking opens onto the formal dining area. 
+&bull;	Good size lounge with reverse cycled air conditioner.
+&bull;	Well-maintained main bathroom with separate shower and bathtub
+&bull;	External entertainment area covered by a good size pergola 
+&bull;	Well and easy maintained lawn and garden shed
+&bull;	Single lockup garage 
+Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>12-Mar-2016 11:30AM to 12:00PM</inspection>
+<inspection>13-Mar-2016 10:30AM to 11:00AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409140-12006-DSC_0744a.jpg"/>
+<img id="a" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408923-11719-DSC_0692.jpg"/>
+<img id="b" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408946-11736-DSC_0700.jpg"/>
+<img id="c" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408972-11795-DSC_0704.jpg"/>
+<img id="d" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409090-11975-DSC_0731.jpg"/>
+<img id="e" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408991-11895-DSC_0705.jpg"/>
+<img id="f" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409013-11927-DSC_0719.jpg"/>
+<img id="g" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454409058-11944-DSC_0722a.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-02-08-08:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454408892-11705-45-Rosenthal-St-Doonside.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.771532]]></Latitude>
+<Longitude><![CDATA[150.877742]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-03-08-09:05" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9406582</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-03-12-00:00</dateAvailable>
+<rent display="yes" period="week">420</rent>
+<priceView></priceView>
+<bond>1680</bond>
+
+
+
+<address display="yes">
+<streetNumber>68/5</streetNumber>
+<street>Griffiths Street</street>
+<suburb display="yes">BLACKTOWN</suburb>
+<state>NSW</state>
+<postcode>2148</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[FRESHLY PAINTED 2 BEDDER AVAILABLE FROM 12TH MARCH 2016]]></headline>
+<description><![CDATA[This freshly painted peacefully set in the heart of Blacktown, and quietly nestled outside of Blacktown Hospital, Blacktown Westpoint Shopping District and Blacktown Station, this tidy residence offers a spacious haven of natural sunlight and captures the convenient lifestyle, yet provides accommodation to house and young and growing family.
+
+- Generous layout featuring open plan living and dining areas
+- Sliding glass doors open to a sun washed undercover balcony
+- Original well-maintained kitchen
+- 2 Well scaled bedrooms are appointed with built-in wardrobes
+- Bright and airy full bathroom, with separate internal laundry
+- Light and airy interiors dressed in fresh neutral decor
+- Convenient access to secure garage parking
+- Encompassed by a great selection of shops and popular cafes
+-Available from 12th March at weekly rent of $420 per week negotiable
+Don't miss the opportunity and contact your exclusive agent Atul Bhanushali on 0402961515 or register your interest for viewing this property.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>12-Mar-2016 12:00PM to 12:30PM</inspection>
+<inspection>13-Mar-2016 12:30PM to 01:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-26-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456472537-1672-main.jpg"/>
+<img id="a" modTime="2016-02-26-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456472530-315-IMG_3785.jpg"/>
+<img id="b" modTime="2016-02-26-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456472534-332-IMG_8763.jpg"/>
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.773684]]></Latitude>
+<Longitude><![CDATA[150.916179]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

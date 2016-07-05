@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-11-08:37:05" username="commaust" password="commaust">
+<residential modTime="2016-03-11-08:06" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9418850</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$550,000-$600,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>19/5-15</streetNumber>
+<street>Union Street</street>
+<suburb display="yes">PARRAMATTA</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[LOCATED IN THE HEART OF PARRAMATTA]]></headline>
+<description><![CDATA[Located in the downtown business district of Parramatta's CBD, this wonderfully presented 2 bedrooms apartment is a statement of convenience and lifestyle. Positioned within a well-maintained security building, this quality unit exuberates value providing a perfect position within minutes walk to train station, Westfield, Parramatta River, Restaurants and Schools.
+
+&bull;	Open plan combined lounge and dining flowing to sundrenched large wrap around balcony with spectacular view. Balcony is perfect retreat for less formal occasions or a family to relax. 
+&bull;	2 Good size bedrooms with built-in robes.
+&bull;	Well-maintained kitchen with plenty of storage space available.
+&bull;	Spacious Bathroom with separate shower and bathtub.
+&bull;	Good size single lock up garage with space for storage.
+&bull;	Separate internal laundry.
+&bull;	Other inclusions are two air-conditioners (Bedroom and living area) and fans in both bedrooms.
+It you want to live/invest in heart of Parramatta, please do not miss the opportunity. Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803206-26752-IMG_3254.jpg"/>
+<img id="a" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803289-28253-IMG_3248.jpg"/>
+<img id="b" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803008-26939-IMG_3225.jpg"/>
+<img id="c" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803122-27454-IMG_3244.jpg"/>
+<img id="d" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803042-25835-IMG_3230.jpg"/>
+<img id="e" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456803083-26043-IMG_3236.jpg"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-01-11:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456802969-26819-19-5-15unionstparramatta.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.816104]]></Latitude>
+<Longitude><![CDATA[151.009719]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

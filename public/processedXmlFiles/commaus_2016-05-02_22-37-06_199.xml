@@ -1,0 +1,304 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-02-22:37:06" username="commaust" password="commaust">
+<rental modTime="2016-05-02-21:40" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9667305</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-05-02-00:00</dateAvailable>
+<rent display="yes" period="week">400</rent>
+<priceView></priceView>
+<bond>1600</bond>
+
+
+
+<address display="yes">
+<streetNumber>2</streetNumber>
+<street>Melody Street</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[Beautifully Renovated House looks almost Brand new with Huge Backyard]]></headline>
+<description><![CDATA[[Only few metres walk to station]
+Spacious 2 bedroom house with an additional small study room which is located in a very quiet street. The house features a spacious bathroom fully tiled with a frameless shower and spacious kitchen with electric cooking. Located close to train station, shops & schools.
+Please contact your Exclusive agent Atul Bhanushali on 0402961515 before it is leased.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>07-May-2016 01:00PM to 01:15PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-02-09:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4693-Image1.jpg"/>
+<img id="a" modTime="2016-05-02-09:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/19667-image2.jpg"/>
+<img id="b" modTime="2016-05-02-09:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4788-Image3.jpg"/>
+<img id="c" modTime="2016-05-02-09:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/18879-Image4.jpg"/>
+<img id="d" modTime="2016-05-02-09:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/19857-image5.jpg"/>
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.782587]]></Latitude>
+<Longitude><![CDATA[150.948433]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-05-02-21:41" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9607035</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-18-00:00</dateAvailable>
+<rent display="yes" period="week">490</rent>
+<priceView></priceView>
+<bond>2080</bond>
+
+
+
+<address display="yes">
+<streetNumber>56/30-44</streetNumber>
+<street>Railway Tce</street>
+<suburb display="yes">GRANVILLE</suburb>
+<state>NSW</state>
+<postcode>2142</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[3 BEDROOM WITH LOCKED STORAGE]]></headline>
+<description><![CDATA[Delivering a quality lifestyle from its ground floor position, this well presented convenient and functional 3 bedroom apartment with privacy as townhouse is easy walk to Merrylands station and shopping. 
+&bull;	3 bedrooms with built-in robes with ensuite to main bedroom
+&bull;	2 modern bathrooms with second bathroom fully tiled
+&bull;	Modern open plan gas kitchen with stainless steel appliances
+&bull;	Generous combined lounge and dining
+&bull;	Undercover security parking for two car spaces plus locked storage
+&bull;	Floor boards throughout, Air conditioner, internal laundry with dryer, and oversized undercover balcony 
+&bull;	Rent $490-$520 per week
+Please contact your exclusive agent Atul Bhanushali on 0402961515 as we have instructions to LEASE ASAP]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>07-May-2016 01:45PM to 02:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460977055-16138-IMG_1773print.jpg"/>
+<img id="a" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976503-15997-IMG_1714print.jpg"/>
+<img id="b" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976553-16013-IMG_1733print.jpg"/>
+<img id="c" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976648-16030-IMG_1743print.jpg"/>
+<img id="d" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976695-16074-IMG_1747print.jpg"/>
+<img id="e" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976762-16090-IMG_1752print.jpg"/>
+<img id="f" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976833-16106-IMG_1758print.jpg"/>
+<img id="g" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976936-16122-IMG_1770print.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-04-19-00:35" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460976445-27691-FP-web-56-30-44-railway-terrace-granville.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.833741]]></Latitude>
+<Longitude><![CDATA[150.997282]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-05-02-21:42" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8084554</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-20-00:00</dateAvailable>
+<rent display="yes" period="week">380</rent>
+<priceView></priceView>
+<bond>1520</bond>
+
+
+
+<address display="yes">
+<streetNumber>10/31</streetNumber>
+<street>Harris Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[MUST BE RENTED-RECENTY REFURBISHED WITH NEW KITCHEN]]></headline>
+<description><![CDATA[Two bedroom unit in excellent location, Property features:
+&bull; Two generous bedrooms with built-in wardrobe to main
+&bull;Formal lounge room
+&bull;Seperate kitchen
+&bull;Tiled flooring throughout Unit
+&bull;Close to public schools, all shopping and in the heart of Harris Park CBD
+ Minutes' walk to Parramatta CBD
+Please call your Exclusive Agent Atul Bhanushali on 0402961515 to secure this affordable rental before it is rented out.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Formal Lounge</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>07-May-2016 03:00PM to 03:15PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-20-19:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1430544382-21400-frontshot.jpg"/>
+<img id="a" />
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8249103]]></Latitude>
+<Longitude><![CDATA[151.0108004]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

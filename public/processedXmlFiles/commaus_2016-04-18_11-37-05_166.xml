@@ -1,0 +1,203 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-18-11:37:05" username="commaust" password="commaust">
+<residential modTime="2016-04-18-11:21" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8825026</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$550,000-$580,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>7/154-156</streetNumber>
+<street>Bridge Road</street>
+<suburb display="yes">WESTMEAD</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Location location location]]></headline>
+<description><![CDATA[Positioned on the quiet side of the secure unit complex, this contemporary and spacious two-bedroom apartment offers open plan living and north facing layout.
+
+Features:
+&bull;	Enormous living and dining area with vitrified tiles that leads to a fully enclosed sunroom (weather permitting)
+&bull;	Modern kitchen with glass splash back, gas cooking, stainless steel appliance and dishwasher.
+&bull;	2 Good size bedrooms with stylish glass built-ins and floating floors, master with en-suite, and second bedroom with own balcony.
+&bull;	Main bathroom tastefully decorated with fully tiled wall and floor, frameless shower screen and stylish contemporary bathroom fittings.
+&bull;	Internal laundry with dryer, r/c air conditioning
+&bull;	Secure double car space
+
+
+Located in sought after location, minutes walks to Westmead station, new COLES complex, hospital, local schools and parks. With owner determined to SELL, please contact your exclusive agent Atul Bhanushali on 0402 961 515 and Jitender Singh (Jeet) 0410 567 777.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>21-Apr-2016 06:30PM to 07:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707452-17333-photo1.jpg"/>
+<img id="a" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707613-19866-photo5.jpg"/>
+<img id="b" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707642-6094-photo6.jpg"/>
+<img id="c" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707516-18482-photo2.jpg"/>
+<img id="d" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707678-20414-photo7.jpg"/>
+<img id="e" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707701-6446-photo8.jpg"/>
+<img id="f" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707744-20651-photo9.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444717802-14428-7-154-156-bridge-rd-westmead.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.80657]]></Latitude>
+<Longitude><![CDATA[150.979323]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-04-18-11:22" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9558134</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">635000</price>
+<priceView>$635,000-$665,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>2/15-17</streetNumber>
+<street>LANE ST</street>
+<suburb display="yes">WENTWORTHVILLE</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[LOCATION, QUALITY AND SUNNY ASPECT!!!]]></headline>
+<description><![CDATA[Defined by its contemporary and architecturally designed, bathed in the dappled light of a northeast aspect, this superb and stunning 3 bedrooms apartment is an idyllic family haven of character and charm.  Located in the heart of Wentworthville within a stone's throw away to train station, shops, schools, library, major banks, medical centre and within easy access to M4, Cumberland Highway & Great Western Highway.
+
+Features:
+&bull; Three great size bedrooms fitted with built ins to all, large ensuite to main. 
+&bull; Modern open plan Kitchen fitted with stainless steel oven and gas cooktop, dishwasher and ducted range hood.
+&bull; Bright spacious open planned lounge and dining area with timber flooring and reverse cycle air conditioning.
+&bull; Beautiful main bathroom with separate bathtub and shower area
+&bull; Home office/study area enclosed with extra storage.
+&bull; Internal laundry and a secure car space with extra storage cage.
+&bull;. North East paved courtyard ideal space to relax with morning coffee and breath in the fresh air.
+
+It you want to live/invest close to all amenities, please do not miss the opportunity. Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>0</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>21-Apr-2016 06:00PM to 06:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011327-32156-IMG_0820.jpg"/>
+<img id="a" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011461-32507-IMG_0847.jpg"/>
+<img id="b" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011512-1222-IMG_0857.jpg"/>
+<img id="c" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011413-537-IMG_0832.jpg"/>
+<img id="d" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011570-1307-IMG_0849.jpg"/>
+<img id="e" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011614-535-IMG_0852.jpg"/>
+<img id="f" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011183-31587-IMG_0840.Jitender.jpg"/>
+<img id="g" modTime="2016-04-07-16:16" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1460011635-775-2-15-17-lane-st-wentworthville.gif"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8097975]]></Latitude>
+<Longitude><![CDATA[150.9728151]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

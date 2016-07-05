@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-06-06-10:37:06" username="commaust" password="commaust">
+<rental modTime="2016-06-06-10:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8796072</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-06-24-00:00</dateAvailable>
+<rent display="yes" period="week">450</rent>
+<priceView></priceView>
+<bond>1800</bond>
+
+
+
+<address display="yes">
+<streetNumber>40</streetNumber>
+<street>Carole Street</street>
+<suburb display="yes">SEVEN HILLS</suburb>
+<state>NSW</state>
+<postcode>2147</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[GREAT FAMILY HOME]]></headline>
+<description><![CDATA[This immaculately presented home is positioned in sought-after North Seven Hills area, comprising of 3 good size bedrooms, modern bathroom and kitchen. It is set in a family-friendly street with tranquil Cul-De-Sac, closely bordering Kings Langley and only a short stroll to great local schools, shops and transport.
+
+
+Features
+
+&bull;	Substantial master bedroom with large built-in wardrobe, and 2nd bedroom with built-in robe
+&bull;	Open plan has beautiful kitchen with granite bench top and quality appliances
+&bull;	Modern and stylish main bathroom incorporates with small TV. 
+&bull;	Polished timber floors throughout
+&bull;	Air conditioner and gas connection for heating 
+&bull;	Backyard for kids to play
+&bull;	Large parking area in front yard
+&bull;	Minutes' drive to railway stations & easy access to the M2 and M7 motorway 
+&bull;	Rent approx. $450 per week]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>11-Jun-2016 09:00AM to 09:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015760-12733-IMG_3989web.jpg"/>
+<img id="a" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015834-12971-IMG_4046web.jpg"/>
+<img id="b" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015814-12930-IMG_4018web.jpg"/>
+<img id="c" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015878-13135-IMG_4029web.jpg"/>
+<img id="d" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015862-13047-IMG_4030web.jpg"/>
+<img id="e" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015847-12989-IMG_4038web.jpg"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015818-12958-web-40-carole-street-seven-hills.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.760059]]></Latitude>
+<Longitude><![CDATA[150.946856]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-06-07-08:37:05" username="commaust" password="commaust">
+<residential modTime="2016-06-07-07:42" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8825026</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="yes" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">550000</price>
+<priceView>$550,000-$580,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>7/154-156</streetNumber>
+<street>Bridge Road</street>
+<suburb display="yes">WESTMEAD</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Refurbished Reenergised 2 bed 2 bath 2 carspaces 2 balconies]]></headline>
+<description><![CDATA[Positioned on the quiet side of the secure unit complex, this contemporary and spacious two-bedroom apartment offers open plan living and generous layout.
+
+Features:
+&bull;	Enormous living and dining area with vitrified tiles that leads to a fully enclosed sunroom (weather permitting)
+&bull;	Modern kitchen with glass splash back, gas cooking, stainless steel appliance and dishwasher.
+&bull;	2 Good size bedrooms with stylish glass built-ins and floating floors, master with en-suite, and second bedroom with own balcony.
+&bull;	Main bathroom tastefully decorated with fully tiled wall and floor, frameless shower screen and stylish contemporary bathroom fittings.
+&bull;	Internal laundry with dryer, r/c air conditioning
+&bull;	Secure double car space
+
+
+Located in sought after location, minutes walks to Westmead station, new COLES complex, hospital, local schools and parks. With owner determined to SELL, please contact your exclusive agent Atul Bhanushali on 0402 961 515 and Jitender Singh (Jeet) 0410 567 777.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707452-17333-photo1.jpg"/>
+<img id="a" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707613-19866-photo5.jpg"/>
+<img id="b" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707642-6094-photo6.jpg"/>
+<img id="c" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707516-18482-photo2.jpg"/>
+<img id="d" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707678-20414-photo7.jpg"/>
+<img id="e" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707701-6446-photo8.jpg"/>
+<img id="f" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444707744-20651-photo9.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-10-13-14:33" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444717802-14428-7-154-156-bridge-rd-westmead.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.80657]]></Latitude>
+<Longitude><![CDATA[150.979323]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

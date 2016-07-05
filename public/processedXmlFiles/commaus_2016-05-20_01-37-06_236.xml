@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-20-01:37:06" username="commaust" password="commaust">
+<residential modTime="2016-05-20-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9002198</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">525000</price>
+<priceView>$525,000-$575,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>5/47</streetNumber>
+<street>Wigram Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[WALK TO ALL AMENITIES+GARAGE+STORE ROOM]]></headline>
+<description><![CDATA[A brilliantly conceived and beautifully executed, this two bedrooms spacious unit is created a lifestyle of convenience and comfort. Situated on the 2ND floor of a security complex, this residence offers northern aspect, privacy and ultra convenient location just minutes walk to Harris Park station, shopping village, reputable schools, restaurants, cafes & park.
+
+Features:
+&bull;	Two sizeable bedrooms complete with built-in wardrobes plus air con in main.
+&bull;	Combined lounge / dining opening onto a large sundrenched balcony with northern aspect.
+&bull;	Separate modern kitchen with ample cupboard spaces equipped with dishwasher and oven.
+&bull;	Tidy bathroom with separate bathtub and shower
+&bull;	Internal laundry with dryer
+&bull;	Lock up garage and separate lock up store room
+&bull;	Nearly new blinds in lounge and kitchen, ceiling fans in lounge and main bedroom. 	  
+
+With being in growing Harris Park and close to Parramatta CBD this property exuberates value providing high rental potential and strong capital growth.  With owner determined to SELL, please contact your exclusive agent Jitender Singh on 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking,STORAGE ROOM</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>21-May-2016 11:15AM to 11:45AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27235-IMG4694.jpg"/>
+<img id="a" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3922-IMG4702.jpg"/>
+<img id="b" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/28843-IMG4706.jpg"/>
+<img id="c" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8511-IMG4710.jpg"/>
+<img id="d" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/25709-IMG4718.jpg"/>
+<img id="e" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10470-IMG4726.jpg"/>
+<img id="f" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/2997-IMG4728.jpg"/>
+<img id="g" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/17273-IMG4734a.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-04-08:46" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31783-5-47-wigram-st-harris-park.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.82338]]></Latitude>
+<Longitude><![CDATA[151.009603]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

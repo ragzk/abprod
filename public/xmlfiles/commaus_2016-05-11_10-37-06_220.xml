@@ -1,0 +1,284 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-11-10:37:06" username="commaust" password="commaust">
+<residential modTime="2016-05-11-10:24" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9610487</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="yes" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">480000</price>
+<priceView>$480,000-$500,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>9/36</streetNumber>
+<street>Virginia Street</street>
+<suburb display="yes">ROSEHILL</suburb>
+<state>NSW</state>
+<postcode>2142</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[PERFECT LOCATION, EXCELLENT INVESTMENT!]]></headline>
+<description><![CDATA[This fully brick and immaculately presented unit offers value to first home buyer and astute investor for strong growth and rental prospects. Situated towards the rear side of the secure complex, this two bedrooms spacious unit is a statement of comfort and convenient. This residence is located just across the road from Rosehill Public School and minutes walk to Harris Park train station, local shops and restaurants. 
+
+&bull;	2 Great size bedrooms with built-in robe to main
+&bull;	Open plan spacious living/dining flowing to a sun-drenched balcony
+&bull;	Modern kitchen with breakfast bar
+&bull;	Large bathroom with separate bath and shower
+&bull;	Internal laundry with storage
+&bull;	Single lock up garage
+
+This gorgeous security complex exuberates value providing high rental potential. Be quick because this excellent opportunity will not last long. With owner determined to SELL, please contact your exclusive agent Jitender Singh (Jeet) 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046123-30822-IMG_2978a.jpg"/>
+<img id="a" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046161-19193-IMG_2975.jpg"/>
+<img id="b" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046225-19355-IMG_2962.jpg"/>
+<img id="c" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046147-19137-IMG_2972.jpg"/>
+<img id="d" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046210-30952-IMG_2948.jpg"/>
+<img id="e" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046215-19300-IMG_2953.jpg"/>
+<img id="f" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046220-30982-IMG_2957.jpg"/>
+<img id="g" modTime="2016-04-20-12:58" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1461046249-31014-9-36-virginia-st-rosehill.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.825061]]></Latitude>
+<Longitude><![CDATA[151.017499]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-05-11-10:14" status="leased">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8474243</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-26-00:00</dateAvailable>
+<rent display="yes" period="week">450</rent>
+<priceView></priceView>
+<bond>1800</bond>
+
+
+
+<address display="yes">
+<streetNumber>9/31</streetNumber>
+<street>Harris Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[WALK TO STATION AND SHOPS]]></headline>
+<description><![CDATA[Two bedroom unit in excellent location, Property features:
+&bull;	 Two generous bedrooms with built-in wardrobes to both rooms
+&bull;	 Formal lounge room
+&bull;	 Seperate kitchen
+&bull;	Combination of floor boards and tiles throughout 
+&bull;	 Close to public schools, all shopping and in the heart of Harris Park CBD, Minutes' walk to Parramatta CBD
+Please call your Exclusive Agents Atul Bhanushali on 0402961515 or Peter on  0470602056 to secure this quality property before it is rented out.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640937-24023-9-31image1.jpeg"/>
+<img id="a" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640940-25859-9-31image2.jpeg"/>
+<img id="b" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640942-24036-9-31image3.jpeg"/>
+<img id="c" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640944-25872-9-31image4.jpeg"/>
+<img id="d" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640946-24049-9-31image5.jpeg"/>
+<img id="e" modTime="2016-04-03-21:24" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1437640949-25885-9-31image6.jpeg"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8249103]]></Latitude>
+<Longitude><![CDATA[151.0108004]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-05-11-10:13" status="leased">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9638464</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-04-30-00:00</dateAvailable>
+<rent display="yes" period="week">365</rent>
+<priceView></priceView>
+<bond>1460</bond>
+
+
+
+<address display="yes">
+<streetNumber>8/49-51</streetNumber>
+<street>Victoria Street</street>
+<suburb display="yes">WERRINGTON</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[Beautiful Double Storey Town house with Lock Up Garage and Roof covered backyard BBQ Space [Only Few metres Walk to station]]]></headline>
+<description><![CDATA[Spacious 2 bedroom Town house that comes with a lock up garage with storage space. The house features a separate shower fully tiled with 2 separate toilets, spacious kitchen fully tiled, built-ins in all the 2 bedrooms with a leafy outlook.Located close to train station, shops & schools.Please contact your Exclusive agent Atul Bhanushali on 0402961515 before it is leased.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-04-25-19:50" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11530-IMG2559.JPG"/>
+<img id="a" />
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.757966]]></Latitude>
+<Longitude><![CDATA[150.759476]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

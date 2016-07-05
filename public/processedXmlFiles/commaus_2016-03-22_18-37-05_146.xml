@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-22-18:37:05" username="commaust" password="commaust">
+<residential modTime="2016-03-22-17:38" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9477743</uniqueID>
+<authority value="auction" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="no">750000</price>
+<priceView>Auction</priceView>
+
+
+
+<address display="yes">
+<streetNumber>80</streetNumber>
+<street>Wall Park Avenue</street>
+<suburb display="yes">SEVEN HILLS</suburb>
+<state>NSW</state>
+<postcode>2147</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[HOUSE + GRANNY FLAT]]></headline>
+<description><![CDATA[This exceptionally rare property offers two bedrooms tastefully refurbished house and two bedrooms brand new granny flat!  A fresh paint inside and outside of the house and landscaping brings new sense of vibrancy while stunning brand new granny flat is a statement of modern lifestyle. 
+
+Granny flat is located in the backside of the house with complete privacy through fencing and separate access from the house. This quality and dual income residence exuberates value providing a perfect position within minutes walk to Seven Hills Train Station, Seven hills Plaza and Bert Oldfield Primary School.
+
+The Main House Features:
+
+&bull;	2 Good size bedrooms with built-in robes
+&bull;	Well-presented kitchen equipped with gas cooking open into the dining area
+&bull;	Separate generous size lounge
+&bull;	Well-maintained bathroom with bathtub and separate toilet
+&bull;	Internal laundry and two carports
+&bull;	Giving you comfort this house is fitted with ducted air-conditioning
+&bull;	Sunny patio in backside with courtyard ideal for relaxation and entertainment
+
+The Granny Flat Features:
+&bull;	2 Good size bedrooms with built-in robes
+&bull;	Contemporary open plan kitchen fitted with gas cooktop, oven and dishwasher. Kitchen joined with living room, giving lots of space to move around. 
+&bull;	Ultra modern fully tiled bathroom with shower screen
+&bull;	The air-conditioning in living area provides comfort for all seasons.
+&bull;	The side leafy courtyard and sunny patio in front ideal for relaxation and entertainment. 
+&bull;       Price Guide $775000-$852000
+Tailored to the astute investor seeking a high yielding rental income & to the family seeking a large family home with rental income from the granny flat to assist with the mortgage. Owner has made the decision to sell, so don't delay to secure this property, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>0</garages>
+<carports>2</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<auction date="2016-04-30-12:30"/>
+<auctionVenue><![CDATA[ONSITE]]></auctionVenue>
+
+<images>
+<img id="m" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618056-6779-IMG_0021a.jpg"/>
+<img id="a" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618088-7093-IMG_9978.jpg"/>
+<img id="b" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618114-25794-IMG_9982.jpg"/>
+<img id="c" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618011-24715-IMG_0017a.jpg"/>
+<img id="d" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458617920-24280-IMG_0000.jpg"/>
+<img id="e" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618166-8031-IMG_9996.jpg"/>
+<img id="f" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458617946-5985-IMG_0005.jpg"/>
+<img id="g" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458618139-7833-IMG_9987.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-22-11:57" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458617886-24239-80-wall-park-avenue-seven-hills.jpg.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.776461]]></Latitude>
+<Longitude><![CDATA[150.924]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

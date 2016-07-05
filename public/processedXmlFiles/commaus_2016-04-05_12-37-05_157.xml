@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-04-05-12:37:05" username="commaust" password="commaust">
+<land modTime="2016-04-05-12:29" status="current">
+<agentID>27140</agentID>
+<uniqueID>9546873</uniqueID>
+<authority value="exclusive" />
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">449000</price>
+<priceView>$449,000-$479,000</priceView>
+<address display="yes">
+<streetNumber>19</streetNumber>
+<street>Austin Street</street>
+<suburb display="yes">SCHOFIELDS</suburb>
+<state>NSW</state>
+<postcode>2762</postcode>
+</address>
+<landcategory name="Residential"/>
+<headline><![CDATA[BUILD YOUR DREAM HOME HERE!]]></headline>
+<description><![CDATA[Don't delay in securing this wonderful parcel of land that is ready to start building the dream home of your choice. Located in the Schofields growth precinct and minutes stroll to Schofields Station, Woolworths Shopping Centre, Schofields Public School and Ponds High School; it's also within minutes driving distance to the New North West Cudgegong Road Station and Rouse Hill Town Centre.
+
+Features:
+
+&bull;	Approx. 352 sqm Block of land
+&bull;	Frontage: 11m approx.
+&bull;	Depth: 32m approx.
+
+This land is registered so you can start building your dream home immediately. Instructions are to SELL so please make sure you submit offer before it is sold. Please contact your exclusive agent Jitender Singh on 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<images>
+<img id="m" modTime="2016-04-05-12:29" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1459825640-29295-Kaushal.jpg"/>
+<img id="a" modTime="2016-04-05-12:29" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1459825681-3249-cf2d870befead8ce7ace09a5b8a9ac6f.jpg"/>
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.6965824]]></Latitude>
+<Longitude><![CDATA[150.8704193]]></Longitude>
+</Geocode>
+
+</land>
+</propertyList>
+   

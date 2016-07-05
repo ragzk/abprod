@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-03-15-20:37:05" username="commaust" password="commaust">
+<rental modTime="2016-03-15-19:49" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9406582</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-03-12-00:00</dateAvailable>
+<rent display="yes" period="week">420</rent>
+<priceView></priceView>
+<bond>1680</bond>
+
+
+
+<address display="yes">
+<streetNumber>68/5</streetNumber>
+<street>Griffiths Street</street>
+<suburb display="yes">BLACKTOWN</suburb>
+<state>NSW</state>
+<postcode>2148</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[FRESHLY PAINTED 2 BEDDER AVAILABLE FROM 12TH MARCH 2016]]></headline>
+<description><![CDATA[This freshly painted peacefully set in the heart of Blacktown, and quietly nestled outside of Blacktown Hospital, Blacktown Westpoint Shopping District and Blacktown Station, this tidy residence offers a spacious haven of natural sunlight and captures the convenient lifestyle, yet provides accommodation to house and young and growing family.
+
+- Generous layout featuring open plan living and dining areas
+- Sliding glass doors open to a sun washed undercover balcony
+- Original well-maintained kitchen
+- 2 Well scaled bedrooms are appointed with built-in wardrobes
+- Bright and airy full bathroom, with separate internal laundry
+- Light and airy interiors dressed in fresh neutral decor
+- Convenient access to secure garage parking
+- Encompassed by a great selection of shops and popular cafes
+-Available from 12th March at weekly rent of $420 per week negotiable
+Don't miss the opportunity and contact your exclusive agent Atul Bhanushali on 0402961515 or register your interest for viewing this property.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>19-Mar-2016 12:45PM to 01:00PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456472537-1672-main.jpg"/>
+<img id="a" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042412-2299-2.jpg"/>
+<img id="b" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042414-2312-3.jpg"/>
+<img id="c" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042417-2325-4.jpg"/>
+<img id="d" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042408-13146-1.jpg"/>
+<img id="e" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042420-2338-5.jpg"/>
+<img id="f" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042423-13172-6.jpg"/>
+<img id="g" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042426-2351-8.jpg"/>
+<img id="h" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042429-13185-9.jpg"/>
+<img id="i" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042434-2364-10.jpg"/>
+<img id="j" modTime="2016-03-15-19:49" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1458042437-13198-11.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.773684]]></Latitude>
+<Longitude><![CDATA[150.916179]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

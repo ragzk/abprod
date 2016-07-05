@@ -1,0 +1,305 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-01-24-01:37:05" username="commaust" password="commaust">
+<rental modTime="2016-01-24-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8943666</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-01-23-00:00</dateAvailable>
+<rent display="yes" period="week">550</rent>
+<priceView></priceView>
+
+
+
+<address display="yes">
+<streetNumber>66</streetNumber>
+<street>Lamonerie Street</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[FAMILY HOME ON APPROX 800 SQM]]></headline>
+<description><![CDATA[Occupy an enviable, neat 4 bedroom size north facing residence offering you lot features with a cottage feeling in a quiet yet convenient location in one of the best street at the Parramatta council side of Toongabbie in an 800 sqm area.  
+Max 2 min to a primary school, 5 min to a child care, 7- 10 min to Toongabbie station/ shops plus a fantastic neighbourhood a bonus.
+3 good size bedrooms all with big built-in wardrobes plus a family retreat room.
+ 	-Separate Spacious Lounge, separate dining area, separate Kitchen and separate laundry area.
+ 	-Modern Kitchen with Gas cooking, Dishwasher  and plenty of storage
+ 	-Generous floor area showcase stunning Timber flooring with amble sky lights to fill the natural light thorough out the house and nice floor      level new curtains. 
+ 	-Internal laundry with costly front loading washing machine and double draw dishwasher. 
+ 	-Separate bath/shower and toilet. 
+ 	-35 SQM Deck covered with Pergola at the back overlooking 500 sqm well maintained backyard with costly fruit plants, herbs and ornamental plants. 
+ 	-At least 3 car spaces within the property besides the off street parking.
+        -Air conditioning and security alarm.
+ 
+Don't hesitate or it will be gone. Please ring your Exclusive agents Atul Bhanushali on 0402961515 or Tanmay Goswami on 0447270063]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>3</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<alarmSystem>1</alarmSystem>
+<pool>0</pool>
+<otherFeatures>Built-In Wardrobes,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449543187-32160-DSCN4268.JPG"/>
+<img id="a" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449542740-31002-DSCN4247.JPG"/>
+<img id="b" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449542835-30842-DSCN4250.JPG"/>
+<img id="c" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449542956-31802-DSCN4254.JPG"/>
+<img id="d" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449543032-31706-DSCN4256.JPG"/>
+<img id="e" modTime="2016-01-20-19:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1449543110-32556-DSCN4265.JPG"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.791296]]></Latitude>
+<Longitude><![CDATA[150.954311]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<residential modTime="2016-01-24-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9161742</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender (Jeet) Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">780000</price>
+<priceView>$780,000-$820,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10</streetNumber>
+<street>Allen Road</street>
+<suburb display="yes">BLACKTOWN</suburb>
+<state>NSW</state>
+<postcode>2148</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[An opportunity too good to pass up!!]]></headline>
+<description><![CDATA[Rare opportunity to acquire a large block of land approx. 873sqm with existing 3 bedrooms residence and DA approved to construct 4-6 rooms house in back side under one title.
+ 
+It has the potential to become a big family home or the perfect investment property. The owner has already done the hard work to get DA approved for another house, plans all drawn up and construction ready to go.
+ 
+Features of existing house
+ 
+&bull; 3 generous size bedrooms with built in wardrobes in two bedrooms.
+&bull; Separate lounge and dining area equipped with air conditioner.
+&bull; Original good size kitchen and bathroom.
+&bull; Large entertaining area with considerable sunroom.
+&bull; Large rear yard with established gardens and shrubs.
+&bull; Large lock up garage
+ 
+ 
+This home won't last long and is the ideal investment opportunity with plenty of potential in future. Please contact your exclusive Agents Jitender Singh on 0410 567 777 and Atul Bhanushali 0402 961 515.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>24-Jan-2016 12:00PM to 12:30PM</inspection>
+<inspection>30-Jan-2016 11:40AM to 12:10PM</inspection>
+<inspection>31-Jan-2016 12:00PM to 12:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560726-5365-IMG_1999a.jpg"/>
+<img id="a" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560882-16978-IMG_2005a.jpg"/>
+<img id="b" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560987-17307-IMG_2008a.jpg"/>
+<img id="c" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560601-15845-IMG_1997a.jpg"/>
+<img id="d" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560305-3307-IMG_1980.jpg"/>
+<img id="e" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560380-14808-IMG_1986.jpg"/>
+<img id="f" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560488-4693-IMG_1993.jpg"/>
+<img id="g" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560450-15343-IMG_1988.jpg"/>
+<img id="h" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559484-32588-PHOTO1GIF.gif"/>
+<img id="i" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559731-12748-PHOTO2GIF.gif"/>
+<img id="j" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453291190-17682-ScreenShot2016-01-20at10.06.30pmJPG.jpg"/>
+<img id="k" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453291193-17207-SitePlanJPG.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559884-2049-10Allenrdblacktownfloorplan.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.755322]]></Latitude>
+<Longitude><![CDATA[150.920566]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-01-24-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9219198</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-01-19-00:00</dateAvailable>
+<rent display="yes" period="week">480</rent>
+<priceView></priceView>
+<bond>1920</bond>
+
+
+
+<address display="yes">
+<streetNumber>93/32-34</streetNumber>
+<street>Mons Road</street>
+<suburb display="yes">WESTMEAD</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[LOCATION LOCATION LOCATION]]></headline>
+<description><![CDATA[This well presented, spacious, 2 bedroom apartment is exceptionally positioned in an ultra-convenient security complex within the medical hub of Westmead. Just a short walk away from train stations, t-way, popular schools and shops, this property is an opportunity not to be missed.Located on level 5
+
+Property features include:
+* Two bedrooms with built in wardrobes  
+* Modern Stylish bathroom
+* Modern kitchen with gas cooking and stone bench tops 
+* Fully ducted air conditioning
+* Open plan oversized living room leading out to sunny balcony
+* Secure complex with lift access and under basement carpark
+* $480 PER WEEK NEGOTIABLE
+
+Please contact your exclusive agent Atul Bhanushali on 0402961515 before its leased]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>24-Jan-2016 01:15PM to 01:30PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-01-20-16:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453204578-9300-PHOTO1.jpg"/>
+<img id="a" modTime="2016-01-20-16:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453204282-13792-PHOTO3.jpg"/>
+<img id="b" modTime="2016-01-20-16:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453204279-9286-PHOTO2.jpg"/>
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.801138]]></Latitude>
+<Longitude><![CDATA[150.982112]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

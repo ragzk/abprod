@@ -1,0 +1,50 @@
+{
+  "name": "ABExpressApp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "HOME=$OPENSHIFT_REPO_DIR bower install || bower install",
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "description": "ABExpressApp",
+  "author": {
+    "name": "kamath"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "request": "2.72.0",
+    "body-parser": "~1.8.1",
+    "chokidar": "^1.4.3",
+    "cookie-parser": "~1.3.3",
+    "debug": "~2.0.0",
+    "express": "~4.9.0",
+    "jade": "~1.6.0",
+    "lodash": "^4.6.1",
+    "morgan": "~1.3.0",
+    "mysql": "^2.10.2",
+    "serve-favicon": "~2.1.3",
+    "stylus": "0.42.3",
+    "vash": "0.11.1",
+    "compression": "1.6.1",
+    "xml2js": "0.4.16",
+    "bower": "^1.4.1",
+    "sequelize": "3.23.3",
+    "sequelize-auto": "^0.4.12",
+    "moment": "2.13.0",
+    "q": "1.4.1",
+    "typescript-require": "^0.2.9-1",
+    "typings": "^1.0.4",
+    "nodemailer": "0.7.1",
+    "xoauth2": "^1.1.0",
+    "mailgun-js": "^0.7.11",
+    "sendgrid": "1.6.0"
+  },
+  "devDependencies": {
+    "compression": "^1.6.1",
+    "font-awesome": "^4.6.1"
+  }
+}

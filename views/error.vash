@@ -1,0 +1,9 @@
+﻿@html.extend('layout', function(model){
+
+    @html.block('content', function(model){
+            
+        <h2>@JSON.stringify(model)</h2>
+
+    })
+
+})

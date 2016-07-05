@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-05-03-14:37:05" username="commaust" password="commaust">
+<rental modTime="2016-05-03-14:20" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9678512</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-05-17-00:00</dateAvailable>
+<rent display="yes" period="week">460</rent>
+<priceView></priceView>
+<bond>1840</bond>
+
+
+
+<address display="yes">
+<streetNumber>5/29</streetNumber>
+<street>Alice Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[UNOBSTRUCTED VIEWS FOR FOREVER]]></headline>
+<description><![CDATA[Renovated top floor unit in small block of 8, featuring 2 bedrooms (master with built in robe), eat in kitchen, formal lounge & dining, floor boards, bathroom with shower recess and bathtub, internal laundry, balcony with spectacular urban views and double lock up garage in tandem. Close to schools, places of worship, public transport etc....This unit will appeal to many, come and check it out for yourself!!!
+PLEASE CONTACT YOUR EXCLUSIVE AGENT ON 0402961515 BEFORE IT IS LEASED]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>2</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes>
+<inspection>07-May-2016 02:30PM to 02:45PM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-03-10:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12529-IMG2580.JPG"/>
+<img id="a" modTime="2016-05-03-10:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/26069-IMG2581.JPG"/>
+<img id="b" modTime="2016-05-03-10:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/13178-IMG2582.JPG"/>
+<img id="c" modTime="2016-05-03-10:26" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31326-IMG2583.JPG"/>
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.821494]]></Latitude>
+<Longitude><![CDATA[151.015181]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

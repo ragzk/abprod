@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-24-16:37:05" username="commaust" password="commaust">
+<residential modTime="2016-02-24-16:02" status="withdrawn">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8776867</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">570000</price>
+<priceView>$570,000-$610,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>129/18</streetNumber>
+<street>SORRELL STREET</street>
+<suburb display="yes">PARRAMATTA</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Walk to everything]]></headline>
+<description><![CDATA[Positioned on the quiet side of the secure unit complex, this contemporary apartment offers open plan living and district views. Located in the heart of Parramatta CBD and a short walk to the river, this alluring property is a statement of convenient and modern living.
+
+&bull;	Open plan combined lounge and dining flowing to sundrenched 
+spacious balcony with district views 
+&bull;	Beautiful kitchen equipped with nearly new gas cooktop, dishwasher and granite bench top
+&bull;	Two double bedrooms with built-in robes
+&bull;	Two bathrooms fully tiled including en-suite of master bedroom
+&bull;	Air conditioner in living area and internal laundry with dryer
+&bull;	Secure parking and lift access
+&bull;	Double security at gate and building entrance 
+&bull;	Outdoor swimming pool surrounded by garden courtyard
+
+This gorgeous complex exuberates value providing high rental potential and walking distance to all amenities including the local Coles Supermarket on Victoria Road, railway, bus service, Westfield Shopping Centre and Public & Private Schools plus Parramatta Park, Cafes and Restaurants & University / Hospital are close-by plus the many other great thing's that Parramatta has to offer!
+With owner determined to SELL, please contact your exclusive agent Atul Bhanushali on 0402 961 515 and Jitender Singh (Jeet) 0410 567 777.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454687-12842-unnamed8.jpg"/>
+<img id="a" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454677-10931-unnamed1.jpg"/>
+<img id="b" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454679-12816-unnamed2.jpg"/>
+<img id="c" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454686-10957-unnamed5.jpg"/>
+<img id="d" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454689-10970-unnamed.jpg"/>
+<img id="e" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454691-12855-unnamed7.jpg"/>
+<img id="f" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454693-10983-unnamed6.jpg"/>
+<img id="g" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443454681-10944-unnamed3.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2015-10-11-14:25" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1443529323-17083-FP-web-129-18-Sorrell-St-Parramatta.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.809946]]></Latitude>
+<Longitude><![CDATA[151.007543]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   

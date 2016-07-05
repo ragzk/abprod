@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-09-01:37:04" username="commaust" password="commaust">
+<rental modTime="2016-02-09-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9321197</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-02-08-00:00</dateAvailable>
+<rent display="yes" period="week">430</rent>
+<priceView></priceView>
+<bond>1720</bond>
+
+
+
+<address display="yes">
+<streetNumber>10/52</streetNumber>
+<street>Weston Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CONTEMPORARY, SLEEK & STYLISH ($400-$430 Per week)]]></headline>
+<description><![CDATA[Tastefully presented contemporary apartment in a super convenient location!! Well appointed throughout with modern appliances, good sized rooms and living space. Featuring 2 generous bedrooms with built-ins and air conditioning in the main bedroom. Stylish kitchen with sleek white bench tops and glass splash back. Modern bathroom with floor to ceiling tiling. Spacious combined lounge and dining area.
+
+Additional features include modern down lights throughout, internal laundry with dryer, car space and close to transport. Features:
+* Air conditioning
+* Built in wardrobes
+* Intercom
+* Internal Laundry
+PLEASE CONTACT YOUR EXCLUSIVE AGENT ATUL BHANUSHALI ON 0402961515 FOR VIEWING BEFORE IT IS LEASED]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-02-06-22:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454769809-15944-front.jpg"/>
+<img id="a" modTime="2016-02-06-22:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454769812-18307-kitchen.jpg"/>
+<img id="b" modTime="2016-02-06-22:48" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1454769814-15957-living.jpg"/>
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.82262]]></Latitude>
+<Longitude><![CDATA[151.015446]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

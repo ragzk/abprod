@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-02-28-01:37:06" username="commaust" password="commaust">
+<residential modTime="2016-02-28-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9161742</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh (Jeet)</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">750000</price>
+<priceView>$750,000-$800,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>10</streetNumber>
+<street>Allen Road</street>
+<suburb display="yes">BLACKTOWN</suburb>
+<state>NSW</state>
+<postcode>2148</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[An opportunity too good to pass up!!]]></headline>
+<description><![CDATA[Rare opportunity to acquire a large block of land approx. 873sqm with existing 3 bedrooms residence and DA approved to construct 4-6 rooms house in back side under one title.
+ 
+It has the potential to become a big family home or the perfect investment property. The owner has already done the hard work to get DA approved for another house, plans all drawn up and construction ready to go.
+ 
+Features of existing house
+ 
+&bull; 3 generous size bedrooms with built in wardrobes in two bedrooms.
+&bull; Separate lounge and dining area equipped with air conditioner.
+&bull; Original good size kitchen and bathroom.
+&bull; Large entertaining area with considerable sunroom.
+&bull; Large rear yard with established gardens and shrubs.
+&bull; Large lock up garage
+ 
+ 
+This home won't last long and is the ideal investment opportunity with plenty of potential in future. Please contact your exclusive Agents Jitender Singh on 0410 567 777 and Atul Bhanushali 0402 961 515.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560726-5365-IMG_1999a.jpg"/>
+<img id="a" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560882-16978-IMG_2005a.jpg"/>
+<img id="b" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560987-17307-IMG_2008a.jpg"/>
+<img id="c" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560601-15845-IMG_1997a.jpg"/>
+<img id="d" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560305-3307-IMG_1980.jpg"/>
+<img id="e" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560380-14808-IMG_1986.jpg"/>
+<img id="f" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560488-4693-IMG_1993.jpg"/>
+<img id="g" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452560450-15343-IMG_1988.jpg"/>
+<img id="h" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559484-32588-PHOTO1GIF.gif"/>
+<img id="i" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559731-12748-PHOTO2GIF.gif"/>
+<img id="j" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453291190-17682-ScreenShot2016-01-20at10.06.30pmJPG.jpg"/>
+<img id="k" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1453291193-17207-SitePlanJPG.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-01-20-20:00" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1452559884-2049-10Allenrdblacktownfloorplan.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.755322]]></Latitude>
+<Longitude><![CDATA[150.920566]]></Longitude>
+</Geocode>
+
+</residential>
+</propertyList>
+   
