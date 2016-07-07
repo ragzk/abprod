@@ -8,9 +8,9 @@ var dbConfig = (function () {
     dbConfig.prototype.config = function () {
         if (configs) {
             this.host = "127.4.163.130" || "127.0.0.1";
-            this.database = "abtest";
-            this.user = "abtestAdmin";
-            this.password = "abtestAdmin";
+            this.database = "abprod";
+            this.user = "tranUser";
+            this.password = "tranUser";
             this.port = "8081";
             configs.push(dbConfig);
         }
