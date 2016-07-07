@@ -19,10 +19,15 @@ var soldProp = [];
 function getUnSoldProperties(req, res) {
     var propertyReport = require("../repository/propertyRepo");
     var repo = new propertyReport.propertyRepo();
-    repo.getProperties("buy", "All").then(function (data) {
-        res.json(data);
-    })
-
+    try {
+        repo.getProperties("buy", "All").then(function (data) {
+            res.json(data);
+        })
+    }
+    catch (ex)
+    {
+        console.log(e.message);
+    }
 }
 
 
