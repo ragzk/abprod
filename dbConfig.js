@@ -7,7 +7,7 @@ var dbConfig = (function () {
     //}
     dbConfig.prototype.config = function () {
         if (configs) {
-            this.host = "localhost" || "127.0.0.1";
+            this.host = "127.0.0.1";
             this.database = "abprod";
             this.user = "tranUser";
             this.password = "tranUser";
