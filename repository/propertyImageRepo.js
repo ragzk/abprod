@@ -7,7 +7,7 @@ var dbConfig = require('../dbConfig');
 var propertyImageRepo = (function () {
     function propertyImageRepo() {
         this._dbConfig = new dbConfig.dbConfig();
-        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, define: { freezeTableName: true } });
+        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, port: this._dbConfig.port, define: { freezeTableName: true } });
     }
     propertyImageRepo.prototype.getPropertyImages = function (id, imageId) {
         var findOptions = {};

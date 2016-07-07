@@ -11,6 +11,7 @@ var dbConfig = (function () {
             this.database = "abtest";
             this.user = "abtestAdmin";
             this.password = "abtestAdmin";
+            this.port = "8081";
             configs.push(dbConfig);
         }
         return configs[0];

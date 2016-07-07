@@ -9,7 +9,7 @@ var Promise = require('q');
 var contactRepo = (function () {
     function contactRepo() {
         this._dbConfig = new dbConfig.dbConfig();
-        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, define: { freezeTableName: true } });
+        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, port: this._dbConfig.port, define: { freezeTableName: true } });
     }
     contactRepo.prototype.save = function (obj) {
         try {

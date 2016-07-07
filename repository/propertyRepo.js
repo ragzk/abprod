@@ -9,7 +9,7 @@ var Promise = require('q');
 var propertyRepo = (function () {
     function propertyRepo() {
         this._dbConfig = new dbConfig.dbConfig();
-        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, define: { freezeTableName: true } });
+        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host, port: this._dbConfig.port, define: { freezeTableName: true } });
     }
     propertyRepo.prototype.getProperty1 = function (id) {
         console.log('getProperty1 started' + id);
