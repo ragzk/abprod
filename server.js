@@ -204,7 +204,7 @@ var addFileToProcess = function (xmlPath) {
 var addFileCheck = function (xmlPath) {
     var fs = require('fs');
 
-    var data = fs.readFileSync(xmlPath);
+    var data = fs.readFileSync(xmlPath, 'utf-8');
     console.log('path ' + xmlPath);
     console.log(data);
     console.log('data ^');
