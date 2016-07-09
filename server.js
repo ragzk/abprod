@@ -134,7 +134,7 @@ app.use(function (req, res, next) {
 /*start chokidar*/
 var chokidar = require('chokidar');
 
-var watcher = chokidar.watch('./public/xmlfiles/', {
+var watcher = chokidar.watch('/public/xmlfiles/', {
     ignored: /[\/\\]\./,
     persistent: true
 });
