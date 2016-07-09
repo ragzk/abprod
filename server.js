@@ -146,7 +146,7 @@ watcher
       //console.log(event, path.extname(filePath));
       if (path.extname(filePath) == ".xml") {
           setTimeout(function () {
-              addFileToProcess(filePath);
+              addFileToProcess("./" + filePath);
               counter--;
           }, (counter++ * interval));
 
