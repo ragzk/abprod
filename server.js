@@ -210,7 +210,7 @@ var addFileCheck = function (xmlPath) {
             return console.log(err);
         }
         console.log('start data');
-        console.log(data);
+        console.log(JSON.stringify(data));
         console.log('end data');
     });
     console.log('path ' + xmlPath);
