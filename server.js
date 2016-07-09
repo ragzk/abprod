@@ -205,8 +205,11 @@ var addFileCheck = function (xmlPath) {
     var fs = require('fs');
 
     var data = fs.readFileSync(xmlPath)
+    console.log('path ' + xmlPath);
+    console.log('parseData ' + data);
     return parseXmlFile(data).then(function (result) {
         if (result && result.propertyList) {
+            console.log('camelize result.propertyList ' + result.propertyList);
             var propertyList = toCamelCase(result.propertyList);
             var processed = false;
             return processProperty(propertyList, fs, request, path, xmlPath);
@@ -226,8 +229,10 @@ var parseXmlFile = function (data) {
     var parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
     var result = parser.parseString(data, function (err, stdout, stderr) {
         if (err) {
+            console.log('parsing err ' + err);
             return deferred.reject(err);
         }
+        console.log('parsing data ' + stdout);
         return deferred.resolve(stdout);
     });
     return deferred.promise;
