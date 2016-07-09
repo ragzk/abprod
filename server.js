@@ -205,6 +205,14 @@ var addFileCheck = function (xmlPath) {
     var fs = require('fs');
     console.log(__dirname + "/" + xmlPath);
     var data = fs.readFileSync(__dirname + "/" + xmlPath).toString('utf8');
+    fs.readFile(__dirname + "/" + xmlPath, 'utf8', function (err, data) {
+        if (err) {
+            return console.log(err);
+        }
+        console.log('start data');
+        console.log(data);
+        console.log('end data');
+    });
     console.log('path ' + xmlPath);
     console.log(JSON.stringify(data));
     console.log('data ^');
