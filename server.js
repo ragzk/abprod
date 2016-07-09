@@ -206,7 +206,7 @@ var addFileCheck = function (xmlPath) {
 
     var data = fs.readFileSync(xmlPath, 'utf-8');
     console.log('path ' + xmlPath);
-    console.log(data);
+    console.log(JSON.stringify(data));
     console.log('data ^');
     return parseXmlFile(data).then(function (result) {
         if (result && result.propertyList) {
