@@ -206,7 +206,8 @@ var addFileCheck = function (xmlPath) {
 
     var data = fs.readFileSync(xmlPath);
     console.log('path ' + xmlPath);
-    console.log('parseData ' + data);
+    console.log(data);
+    console.log('data ^');
     return parseXmlFile(data).then(function (result) {
         if (result && result.propertyList) {
             console.log('camelize result.propertyList ' + result.propertyList);
