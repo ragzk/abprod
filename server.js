@@ -154,7 +154,7 @@ watcher
   });
 var promise = null;
 var interval = 8000;
-var counter = 0;
+var counter = 1;
 
 var addFileToProcess = function (xmlPath) {
     filesToProcess.push(xmlPath)
