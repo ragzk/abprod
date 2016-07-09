@@ -204,7 +204,7 @@ var addFileToProcess = function (xmlPath) {
 var addFileCheck = function (xmlPath) {
     var fs = require('fs');
 
-    var data = fs.readFileSync(xmlPath)
+    var data = fs.readFileSync(xmlPath);
     console.log('path ' + xmlPath);
     console.log('parseData ' + data);
     return parseXmlFile(data).then(function (result) {
