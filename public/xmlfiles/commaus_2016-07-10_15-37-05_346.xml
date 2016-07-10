@@ -1,0 +1,286 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-07-10-15:37:05" username="commaust" password="commaust">
+<rental modTime="2016-07-10-15:03" status="leased">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9818126</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-06-16-00:00</dateAvailable>
+<rent display="yes" period="week">480</rent>
+<priceView></priceView>
+<bond>1920</bond>
+
+
+
+<address display="yes">
+<streetNumber>29/17-25</streetNumber>
+<street>ELIZABETH STREET</street>
+<suburb display="yes">PARRAMATTA</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Freshly Painted 2 Bedroom Sought After River Precinct-2 Balconies. Huge Lock Up Garage-Walk to all Parramatta Amenities]]></headline>
+<description><![CDATA[Spacious unit in fantastic location. Stroll to tranquil Parramatta River & all Parramatta city amenities. Huge open living area. Lounge & dining both opening to sunny balconies with leafy outlook. Large main bedroom with built-in robe. Modern kitchen. Separate bath & shower. Separate toilet. Internal laundry.lock up garage. Enjoy privacy & security on top floor. East to West facing. NEW FLOOR BOARDS AND FRESHLY PAINTED.
+
+Quiet block featuring tennis court & swimming pool. Fantastic location. Stroll to Parramatta river foreshore for leisurely walks, festivals. Walk to vibrant Eat Street restaurants & cafes. 10 minutes' walk to Westfield Shopping, train station, RiverCat ferry terminal & picturesque Parramatta Park. 
+
+Please contact your Exclusive Agent AB Property Consultants on 0470602056/0402961515 for viewing and application form.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9947-maxresdefault.jpg"/>
+<img id="a" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5606-swimmingpool.jpg"/>
+<img id="b" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1008-TENNIS.jpg"/>
+<img id="c" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3227-2016-06-17-PHOTO-00001820.jpg"/>
+<img id="d" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15140-2016-06-17-PHOTO-00001821.jpg"/>
+<img id="e" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3131-2016-06-17-PHOTO-00001819.jpg"/>
+<img id="f" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/4891-2016-06-17-PHOTO-00001823.jpg"/>
+<img id="g" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/18462-2016-06-17-PHOTO-00001824.jpg"/>
+<img id="h" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27675-2016-06-17-PHOTO-00001827.jpg"/>
+<img id="i" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9325-2016-06-17-PHOTO-00001822.jpg"/>
+<img id="j" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/17137-2016-06-17-PHOTO-00001826.jpg"/>
+<img id="k" modTime="2016-06-17-18:18" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12299-2016-06-17-PHOTO-00001828.jpg"/>
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.81056]]></Latitude>
+<Longitude><![CDATA[151.008481]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-07-10-15:04" status="leased">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9944293</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-07-02-00:00</dateAvailable>
+<rent display="yes" period="week">450</rent>
+<priceView></priceView>
+<bond>1800</bond>
+
+
+
+<address display="yes">
+<streetNumber>7/31</streetNumber>
+<street>Harris Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[BEAUTIFUL 2 BEDROOM CLOSE TO EVERYTHING]]></headline>
+<description><![CDATA[With the best location this beautiful 2 bedroom unit is not to be missed!
+
+Situated within walking distance to Harris Park station, Local shops, schools, and bus stop on your door step. Parramatta station and Westfield's is also within walking distance! This property offers:
+
+- Wooden flooring
+- Sunny balcony
+- Large combined living and dining
+- Modern bathroom
+- Modern kitchen
+- Separate covered car space
+
+DISCLAIMER: We have gathered the information from sources we have deemed reliable however we do not take any responsibility for the information and ask that you please carry out your own searches.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-24-18:27" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/2917-frontshot.jpg"/>
+<img id="a" />
+<img id="b" />
+<img id="c" />
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.82494]]></Latitude>
+<Longitude><![CDATA[151.0107533]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-07-10-15:02" status="leased">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9975656</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-08-01-00:00</dateAvailable>
+<rent display="yes" period="week">440</rent>
+<priceView></priceView>
+<bond>1760</bond>
+
+
+
+<address display="yes">
+<streetNumber>9/24</streetNumber>
+<street>Wigram Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CLOSE TO EVERYTHING]]></headline>
+<description><![CDATA[Perfectly positioned on the first floor of a security block with easterly aspects, this tiled spacious 2 bedroom home unit (approx 90m2 of living space plus parking) is situated in an ultra convenient location within minutes walk to Harris Park station, shopping village, reputable schools, restaurants, cafes & parks. It features:
+
+Separate lounge & dining room
+Separate kitchen
+Built in robe to main bedroom
+Internal laundry 
+Sunny undercover balcony
+Undercover carport
+Please contact your Exclusive Agent AB Property Consultants on 0470602056/0402961515 for viewing.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-07-04-08:15" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/25197-mainphoto.jpg"/>
+<img id="a" modTime="2016-07-04-08:15" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10778-photo1.jpg"/>
+<img id="b" modTime="2016-07-04-08:15" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12707-photo2.jpg"/>
+<img id="c" modTime="2016-07-04-08:15" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/25541-photo3.jpg"/>
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8251612]]></Latitude>
+<Longitude><![CDATA[151.0079124]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   

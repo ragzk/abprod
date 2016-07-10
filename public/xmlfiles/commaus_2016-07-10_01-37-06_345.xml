@@ -1,0 +1,975 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2016-07-10-01:37:06" username="commaust" password="commaust">
+<rental modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8383400</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-06-19-00:00</dateAvailable>
+<rent display="yes" period="week">450</rent>
+<priceView></priceView>
+<bond>1800</bond>
+
+
+
+<address display="yes">
+<streetNumber>35A</streetNumber>
+<street>A'Beckett Street</street>
+<suburb display="yes">GRANVILLE</suburb>
+<state>NSW</state>
+<postcode>2142</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[BRAND NEW GRANNY FLAT]]></headline>
+<description><![CDATA[Excellently located with closeness to childcare centre, schools, James Ruse Drive, train station and all other amenities this property must and will be rented. This property features 
+-2 bedroom granny flat with one bathroom, two toilets, Spacious kitchen. 
+For more information please ring your exclusive agent Atul Bhanushali on 0402961515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/21958-2016-06-17-PHOTO-00001830.jpg"/>
+<img id="a" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3795-1.jpg"/>
+<img id="b" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29448-2.jpg"/>
+<img id="c" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5377-3.jpg"/>
+<img id="d" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15933-4.jpg"/>
+<img id="e" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15949-5.jpg"/>
+<img id="f" modTime="2016-06-18-15:44" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3837-6.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8276585]]></Latitude>
+<Longitude><![CDATA[151.0168631]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>8796072</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-06-24-00:00</dateAvailable>
+<rent display="yes" period="week">450</rent>
+<priceView></priceView>
+<bond>1800</bond>
+
+
+
+<address display="yes">
+<streetNumber>40</streetNumber>
+<street>Carole Street</street>
+<suburb display="yes">SEVEN HILLS</suburb>
+<state>NSW</state>
+<postcode>2147</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[GREAT FAMILY HOME]]></headline>
+<description><![CDATA[This immaculately presented home is positioned in sought-after North Seven Hills area, comprising of 3 good size bedrooms, modern bathroom and kitchen. It is set in a family-friendly street with tranquil Cul-De-Sac, closely bordering Kings Langley and only a short stroll to great local schools, shops and transport.
+
+
+Features
+
+&bull;	Substantial master bedroom with large built-in wardrobe, and 2nd bedroom with built-in robe
+&bull;	Open plan has beautiful kitchen with granite bench top and quality appliances
+&bull;	Modern and stylish main bathroom incorporates with small TV. 
+&bull;	Polished timber floors throughout
+&bull;	Air conditioner and gas connection for heating 
+&bull;	Backyard for kids to play
+&bull;	Large parking area in front yard
+&bull;	Minutes' drive to railway stations & easy access to the M2 and M7 motorway 
+&bull;	Rent approx. $450 per week]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015760-12733-IMG_3989web.jpg"/>
+<img id="a" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015834-12971-IMG_4046web.jpg"/>
+<img id="b" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015814-12930-IMG_4018web.jpg"/>
+<img id="c" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015878-13135-IMG_4029web.jpg"/>
+<img id="d" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015862-13047-IMG_4030web.jpg"/>
+<img id="e" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015847-12989-IMG_4038web.jpg"/>
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-06-02-10:23" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1444015818-12958-web-40-carole-street-seven-hills.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.760059]]></Latitude>
+<Longitude><![CDATA[150.946856]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<residential modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9398029</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">875000</price>
+<priceView>$875,000-$899,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>8</streetNumber>
+<street>STATION ROAD</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[LUCKY NUMBER 8!]]></headline>
+<description><![CDATA[Immaculately presented and tastefully renovated, this delightful home combines all of the fundamental elements needed for private family living and entertaining. This quality house exuberates value providing a perfect position within minutes walk to train station, shopping centre and schools. 
+
+&bull;	4 Good-sized bedrooms include substantial master bedroom with walk-in wardrobe and sizeable en-suite; other two bedrooms fitted with built-in rob.
+&bull;	Giving you convenience and comfort this property is fitted with brand new Samsung 14kw inverter ducted Aircon. All Bedrooms,Living, Family and Dining areas are now fitted with reverse cycle inverter ducts.
+&bull;	Contemporary near new open plan Kitchen open in dining area fitted with stainless steel oven and gas cooktop, dishwasher and plenty of storage spaces.
+&bull;	Modern nearly new fully tiled main bathroom with separate bathtub and shower.
+&bull;	Two living areas that includes a large modern family room. This family room is the perfect place for the whole family to relax and unwind on the less formal occasions which flows through to the enclosed cover outdoor entertainment area with pergola perfect for BBQ's while the kids play in the secure backyard.
+&bull;	Oversized single garage with laundry provisions.
+&bull;       Thoughtfully refurbished with fresh paint, near new drive way, very recent external rendering, new front and backyard landscaping----they are just few to mention adding to your comfort and lifestyle 
+&bull;	Other inclusions are roller shutters to the front windows and three ceiling fans
+
+With all of the above features, this magnificent family home will most certainly be suitable for all families/investors who are looking to live close to shopping complex and train station. 
+
+Owner has made the decision to sell, so don't delay, your inspection is a must, please contact your exclusive agent Jitender Singh 0410 567 777 and Atul Bhanushali on 0402 961 515.]]></description>
+<features>
+<bedrooms>4</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<landDetails>
+<area unit="squareMeter">563</area>
+</landDetails>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300115-24619-IMG_6894a.jpg"/>
+<img id="a" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299886-23707-IMG_6862a.jpg"/>
+<img id="b" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299939-23998-IMG_6874.jpg"/>
+<img id="c" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300056-24463-IMG_6890.jpg"/>
+<img id="d" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299968-24107-IMG_6879.jpg"/>
+<img id="e" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300006-24188-IMG_6881.jpg"/>
+<img id="f" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456300030-23549-IMG_6887.jpg"/>
+<img id="g" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1456299911-23927-IMG_6872.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-03-14-11:07" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1457923776-21656-FP-hires-8stationrdtoongabbieUPDATED.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.783944]]></Latitude>
+<Longitude><![CDATA[150.953186]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-07-10-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9682785</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">280000</price>
+<priceView>$280,000-$300,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>27/65</streetNumber>
+<street>PARK AVE</street>
+<suburb display="yes">KINGSWOOD</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CONVENIENT YET PEACEFUL !]]></headline>
+<description><![CDATA[Are you are a bachelor or couple who is looking for bargain home to suit the modern Sydney lifestyle? Or an investor who wants his property to boom through time? Then this is the property for you! With the one bedroom apartment located just stone's stone throw away from Kingswood station, transport is surely not a problem!
+
+-	Separate kitchen with electric cooktops
+-	Formal lounge fitted with air con
+-	A bedroom that includes not only a wardrobe but an ensuite too
+-	Automatic secure shared garage
+-	Secured stairwell entry
+-	Next to Kingswood train station
+-	Close by to Western Sydney University and Nepean Hospital
+PLEASE CONTACT YOUR EXCLUSIVE AGENT AB PROPERTY CONSULTANTS ON 0410567777 OR 0402961515 BEFORE IT IS SOLD.]]></description>
+<features>
+<bedrooms>1</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures></otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/21625-IMG5250.jpg"/>
+<img id="a" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8181-IMG5254.jpg"/>
+<img id="b" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/27555-IMG5257.jpg"/>
+<img id="c" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/11154-IMG5263.jpg"/>
+<img id="d" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8526-IMG5265.jpg"/>
+<img id="e" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29650-IMG5271.jpg"/>
+<img id="f" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6543-IMG5274.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-14-17:31" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/24634-27-65-park-ave-kingswood.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.758197]]></Latitude>
+<Longitude><![CDATA[150.72333]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9704889</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">499000</price>
+<priceView>$499,000-$540,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>15/43</streetNumber>
+<street>Bowden Street</street>
+<suburb display="yes">HARRIS PARK</suburb>
+<state>NSW</state>
+<postcode>2150</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[CONVENIENT YET PEACEFUL!]]></headline>
+<description><![CDATA[Positioned for privacy, security, peace and quiet on the top floor of the complex in desirable location within walking distance to the train station, reputable schools & the busy hub of Harris Park shopping village & dining. 
+Features:
+&bull;	2 Generous size bedrooms with built-ins
+&bull;	Bright spacious open planned lounge and dining
+&bull;	Covered sundrenched entertainer's balcony with leafy outlook
+&bull;	Modern kitchen with granite benchtop & gas cooking
+&bull;	Beautiful fully tiled bathroom with separate bathtub and shower area
+&bull;	Internal laundry and extra toilet
+&bull;	Secure basement parking
+
+With being in growing Harris Park and close to Parramatta CBD this property exuberates value providing high rental potential and strong capital growth. With owner determined to SELL, please contact your exclusive agent Jitender Singh on 0410 567 777 and Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>10-Jul-2016 10:00AM to 10:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/5496-mainshot.jpg"/>
+<img id="a" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6683-front.jpg"/>
+<img id="b" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/16213-balcony.jpg"/>
+<img id="c" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15634-bathroom.jpg"/>
+<img id="d" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/19491-dining.jpg"/>
+<img id="e" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/20669-kitchen.jpg"/>
+<img id="f" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/14776-living.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-05-24-07:42" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3140-floorplan.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.825742]]></Latitude>
+<Longitude><![CDATA[151.009184]]></Longitude>
+</Geocode>
+
+</residential>
+<residential modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9866699</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">510000</price>
+<priceView>$510,000-$560,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>4/4</streetNumber>
+<street>BARANGAROO ROAD</street>
+<suburb display="yes">TOONGABBIE</suburb>
+<state>NSW</state>
+<postcode>2146</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[Perfect Investment With Tenancy Commitment!!]]></headline>
+<description><![CDATA[A perfect opportunity arises to secure this exceptional designer nearly new apartment built to phenomenal standards situated in one of best locations in Toongabbie. This is the best investment property, which is leased by a corporate tenant with long term commitment plus annual CPI/market review. It is situated in a boutique block of 12 apartments and just a stone's throw away from Toongabbie station, shops and very close to a well reputable primary and selective school
+Features:
+&bull;	Two spacious bedrooms both with built-in wardrobes
+&bull;	Large lounge furnished with air conditioning and access to balcony perfect for entertaining
+&bull;	Open plan quality modern kitchen with gas cooking and separate dining area
+&bull;	Luxurious fully tiled bathroom with separate bathtub and shower area.
+&bull;	Internal laundry
+&bull;	Secure car space and extra storage
+&bull;       Current rent $427.50 per week
+
+If you are after a low maintenance property with secure rental income then this is the property for you. With owner determined to SELL, please contact your exclusive agent Jitender Singh on 0410 567 777 or Atul Bhanushali on 0402 961 515]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Terrace/Balcony</otherFeatures>
+</features>
+<inspectionTimes>
+<inspection>10-Jul-2016 11:00AM to 11:30AM</inspection>
+</inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/28038-IMG9101a.jpg"/>
+<img id="a" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31105-IMG9104.jpg"/>
+<img id="b" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1628-IMG9087.jpg"/>
+<img id="c" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1881-IMG9089.jpg"/>
+<img id="d" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/2031-IMG9092.jpg"/>
+<img id="e" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/18330-IMG9095.jpg"/>
+<img id="f" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3686-IMG9098.jpg"/>
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-06-21-12:10" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10577-4-4-barangaroo-road-toongabbie.gif"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.7877648]]></Latitude>
+<Longitude><![CDATA[150.9523032]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-07-10-01:10" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9963591</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-07-27-00:00</dateAvailable>
+<rent display="yes" period="week">460</rent>
+<priceView></priceView>
+<bond>1840</bond>
+
+
+
+<address display="yes">
+<streetNumber>12</streetNumber>
+<street>Wall Park Ave</street>
+<suburb display="yes">SEVEN HILLS</suburb>
+<state>NSW</state>
+<postcode>2147</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[BEAUTIFUL 3 BEDROOM-CLOSE TO EVERYTHING]]></headline>
+<description><![CDATA[Beautiful 3 bedroom house perfectly for young couple or family. In addition to being close to all amenities property features:
+
+Features
+
+&bull;	Three good size bedrooms
+&bull;	Separate generous size lounge
+&bull;	Renovated large modern kitchen with dining area
+&bull;	Renovated fully tiled bathroom
+&bull;	Internal laundry
+
+Please contact your Exclusive agents AB Property consultants on 0470602056]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>0</garages>
+<carports>1</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-06-29-16:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/30618-Bathroom.jpg"/>
+<img id="a" modTime="2016-06-29-16:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/25369-FrontPhoto.jpg"/>
+<img id="b" modTime="2016-06-29-16:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29348-Kitchen.jpg"/>
+<img id="c" modTime="2016-06-29-16:20" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29384-Lounge.jpeg"/>
+<img id="d" />
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.7777695]]></Latitude>
+<Longitude><![CDATA[150.9303967]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<residential modTime="2016-07-10-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9977724</uniqueID>
+<authority value="exclusive" />
+
+<underOffer value="no" />
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent><listingAgent id="2">
+<name>Jitender Singh</name>
+<agentid>438026</agentid>
+<telephone type="mobile">0410567777</telephone>
+<telephone type="BH">0410567777</telephone>
+<email>js@abproperties.com.au</email>
+</listingAgent>
+<price display="yes">560000</price>
+<priceView>$560,000-$765,000</priceView>
+
+
+
+<address display="yes">
+<streetNumber>17-19</streetNumber>
+<street>ROBILLIARD STREET</street>
+<suburb display="yes">MAYS HILL</suburb>
+<state>NSW</state>
+<postcode>2145</postcode>
+</address>
+<category name="Unit"/>
+<headline><![CDATA[LUXURY BRAND NEW APPARTMENTS - READY FOR SETTLEMENTS WITHIN WEEKS]]></headline>
+<description><![CDATA[Incomparable Quality: Fully concrete/face brick/Colorbond construction
+
+Perfect opportunities arise to secure brand new luxury apartments with quality construction, which are due for completion within weeks.  These boutique and architecturally designed apartments are located close to Parramatta/Mays hills border and walking distance to Parramatta CBD, Westfield Shopping Centre, Parramatta transport hub including bus and Train Station.
+
+Your contemporary apartment features premium quality finishes and fixtures. 
+
+&bull;	Bedrooms include built in wardrobes with sliding doors 
+&bull;	Ultra modern kitchen with gas cooking, stone benchtop with stone/glass splashback, soft-close polyurethane cupboards and Fisher & Paykel appliances and dishwasher.
+&bull;	Fully tiled impressive bathroom/ensuite with chrome accessories  
+&bull;	Reverse-cycle air conditioning to both living & main bedroom
+&bull;	Audio/video intercom
+&bull;	NBN, alarm and foxtel provisions ready
+&bull;	LED down lighting, gas heating outlets & water outlet for fridge
+&bull;	BBQ ready natural gas bayonet on balcony&#8232;
+&bull;	Internal laundry equipped with Fisher and Paykel or Euromaid dryer&#8232;
+&bull;	Remote entry to security car park &#8232;
+&bull;	Lift from basement &#8232;
+
+
+First home buyers can receive $10,000 grant up valued to $750,000 and stamp duty exemptions/concession applies up to $650,000. Investors may receive a $5,000 concession off the stamp duty valued up to $650,000.
+
+Be quick, only 9 apartments are left. Please contact us on 0410 567 777/ 0402 961 515 for special viewing and price guide.]]></description>
+<features>
+<bedrooms>1</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Secure Parking</otherFeatures>
+</features>
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-07-04-12:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/18616-perspective.jpg"/>
+<img id="a" modTime="2016-07-04-12:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/24613-livingarea01.jpg"/>
+<img id="b" modTime="2016-07-04-12:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/16984-livingarea02.jpg"/>
+<img id="c" modTime="2016-07-04-12:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12593-bathroom.jpg"/>
+<img id="d" modTime="2016-07-04-12:21" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/13860-ensuite.jpg"/>
+<img id="e" />
+<img id="f" />
+<img id="g" />
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8208107]]></Latitude>
+<Longitude><![CDATA[150.9894851]]></Longitude>
+</Geocode>
+
+</residential>
+<rental modTime="2016-07-10-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9985625</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-08-04-00:00</dateAvailable>
+<rent display="yes" period="week">365</rent>
+<priceView></priceView>
+<bond>1460</bond>
+
+
+
+<address display="yes">
+<streetNumber>12/49-51</streetNumber>
+<street>Victoria Street</street>
+<suburb display="yes">WERRINGTON</suburb>
+<state>NSW</state>
+<postcode>2747</postcode>
+</address>
+<category name="Townhouse"/>
+<headline><![CDATA[WALK TO EVERYTHING]]></headline>
+<description><![CDATA[An exhilarating townhouse in great community based environment that is perfect for any personality! This double story home situated in neat & tidy complex and superb location within walking distance to the train station & Werrington shopping village, parks and sporting field.
+
+Features:
+
+&bull; Two good size bedrooms 
+&bull; Well presented kitchen
+&bull; Well-maintained bathroom with separate shower and bathtub attached with toilet.
+&bull; A good sized courtyard for comfort with a great entertainment area
+&bull; Internal laundry with extra toilet
+&bull; A secure lock-up garage with additional storage
+
+PLEASE CONTACT YOUR EXCLUSIVE AGENTS AB PROPERTY CONSULTANTS ON 0470602056.]]></description>
+<features>
+<bedrooms>2</bedrooms>
+<bathrooms>1</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>0</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9686-IMG9205.jpg"/>
+<img id="a" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/2289-IMG9211.jpg"/>
+<img id="b" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9856-IMG9222.jpg"/>
+<img id="c" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9893-IMG9224.jpg"/>
+<img id="d" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/9948-IMG9228.jpg"/>
+<img id="e" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12778-IMG9244.jpg"/>
+<img id="f" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/12824-IMG9246.jpg"/>
+<img id="g" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/10106-IMG9253.jpg"/>
+<img id="h" />
+<img id="i" />
+<img id="j" />
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" modTime="2016-07-05-17:40" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/15103-12-49-victoria-st-werrington.jpg"/>
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.7579663]]></Latitude>
+<Longitude><![CDATA[150.7594764]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+<rental modTime="2016-07-10-01:11" status="current">
+<agentID>27140</agentID>
+<clientID>abprocon</clientID>
+<uniqueID>9995239</uniqueID>
+<authority value="exclusive" />
+
+
+<listingAgent id="1">
+<name>Atul Bhanushali</name>
+<agentid>402290</agentid>
+<telephone type="mobile">0402 961 515</telephone>
+<telephone type="BH">02 8677 1794</telephone>
+<email>ab@abproperties.com.au</email>
+</listingAgent>
+
+<dateAvailable>2016-07-27-00:00</dateAvailable>
+<rent display="yes" period="week">650</rent>
+<priceView></priceView>
+<bond>2600</bond>
+
+
+
+<address display="yes">
+<streetNumber>34A</streetNumber>
+<street>James Street</street>
+<suburb display="yes">GUILDFORD WEST</suburb>
+<state>NSW</state>
+<postcode>2161</postcode>
+</address>
+<category name="House"/>
+<headline><![CDATA[Beautiful big house comes with auto Lock up Garage and Ducted air conditioning throughout, located on a very quiet street [Close to Public transport a]]></headline>
+<description><![CDATA[Spacious 3 bedroom house that comes with auto lock up garage with a direct access from inside house. 
+The house features a large living area with huge space for dining and spacious good size kitchen and includes a large main bathroom with additional toilet in laundry area. 
+It includes wooden flooring in all the spacious 3 bedrooms and comes with additional space at the back for BBQ area.  
+Located close to public transport, shops & schools.
+Please contact your Exclusive agent AB PROPERTY CONSULTANTS 0470602056 before it is leased.]]></description>
+<features>
+<bedrooms>3</bedrooms>
+<bathrooms>2</bathrooms>
+<garages>1</garages>
+<carports>0</carports>
+<airConditioning>1</airConditioning>
+<pool>0</pool>
+<alarmSystem>0</alarmSystem>
+<otherFeatures>Built-In Wardrobes,Close to Schools,Close to Shops,Close to Transport,Garden</otherFeatures>
+</features>
+<holiday value="no" />
+<inspectionTimes></inspectionTimes>
+<images>
+<img id="m" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/30204-2016-07-07-PHOTO-00002112.jpg"/>
+<img id="a" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/1663-2016-07-07-PHOTO-00002117.jpg"/>
+<img id="b" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6541-2016-07-07-PHOTO-00002114.jpg"/>
+<img id="c" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/8497-2016-07-07-PHOTO-00002118.jpg"/>
+<img id="d" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6681-2016-07-07-PHOTO-00002116.jpg"/>
+<img id="e" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/29825-2016-07-07-PHOTO-00002109.jpg"/>
+<img id="f" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/30079-2016-07-07-PHOTO-00002111.jpg"/>
+<img id="g" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/6521-2016-07-07-PHOTO-00002113.jpg"/>
+<img id="h" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/3341-2016-07-07-PHOTO-00002115.jpg"/>
+<img id="i" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/2853-2016-07-07-PHOTO-00002110.jpg"/>
+<img id="j" modTime="2016-07-07-15:54" url="http://mydesktop.aunz.s3-website-ap-southeast-2.amazonaws.com/abprocon/photos/31257-2016-07-07-PHOTO-00002119.jpg"/>
+<img id="k" />
+<img id="l" />
+<img id="n" />
+<img id="o" />
+<img id="p" />
+<img id="q" />
+<img id="r" />
+<img id="s" />
+<img id="t" />
+<img id="u" />
+<img id="v" />
+<img id="w" />
+<img id="x" />
+<img id="y" />
+<img id="z" />
+</images>
+<objects>
+<floorplan id="1" />
+</objects>
+
+<FeatureProperty>0</FeatureProperty>
+<Geocode>
+<GoogleKey><![CDATA[]]></GoogleKey>
+<Latitude><![CDATA[-33.8504044]]></Latitude>
+<Longitude><![CDATA[150.9638821]]></Longitude>
+</Geocode>
+
+<allowances><furnished>0</furnished>
+</allowances>
+</rental>
+</propertyList>
+   
