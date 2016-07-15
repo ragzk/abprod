@@ -63,7 +63,6 @@ export class propertyRepo {
             { model: models.propertyimage, required: false },
             { model: models.propertyagent, required: false, include: [{ model: models.agent}] }
         ];
-        
         //var r = models.property.findAll({ where: { isRental: false, status: 'current' } });
         var r = models.property.find(findOptions);
         return r;
@@ -95,7 +94,7 @@ export class propertyRepo {
                         loc.imageUrl = rentalObj.imageUrl;
                         loc.status = rentalObj.status.toString();
                         loc.lastUpdateFileNumber = rentalObj.lastUpdateFileNumber; 
-                        loc.underOffer = rentalObj.underOffer ? true : false;
+                        loc.underOffer = rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false;
                         return loc.save();
                     }
                     else {

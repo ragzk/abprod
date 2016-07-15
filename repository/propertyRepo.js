@@ -9,23 +9,12 @@ var Promise = require('q');
 var propertyRepo = (function () {
     function propertyRepo() {
         this._dbConfig = new dbConfig.dbConfig();
-        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { host: this._dbConfig.host,  define: { freezeTableName: true } });
+        models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { define: { freezeTableName: true } });
     }
     propertyRepo.prototype.getProperty1 = function (id) {
-        console.log('getProperty1 started' + id);
-        
         var findOptions = {};
-        var where = {};
-        _.extend(where, { uniqueId: id });
-        findOptions.where = where;
-        var r = null;
-        try { 
-            r = models.property.find(findOptions);
-        }
-        catch (e){
-            console.log(e.message);
-        }
-        console.log("return property");
+        findOptions.where = { uniqueId: id };
+        var r = models.property.find({ where: { uniqueId: id } });
         return r;
     };
     propertyRepo.prototype.getProperties = function (tran, type) {
@@ -68,7 +57,6 @@ var propertyRepo = (function () {
     propertyRepo.prototype.saveProperty = function (rentalObj) {
         try {
             return this.getProperty1(rentalObj.uniqueID).then(function (e) {
-                console.log('getProperty1 end');
                 var loc = e;
                 if (loc) {
                     if (loc.lastUpdateFileNumber < rentalObj.lastUpdateFileNumber) {
@@ -91,7 +79,7 @@ var propertyRepo = (function () {
                         loc.imageUrl = rentalObj.imageUrl;
                         loc.status = rentalObj.status.toString();
                         loc.lastUpdateFileNumber = rentalObj.lastUpdateFileNumber;
-                        loc.underOffer = rentalObj.underOffer ? true : false;
+                        loc.underOffer = rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false;
                         return loc.save();
                     }
                     else {
@@ -121,7 +109,6 @@ var propertyRepo = (function () {
                         lastUpdateFileNumber: rentalObj.lastUpdateFileNumber,
                         underOffer: rentalObj.underOffer ? true : false
                     });
-                    console.log('save property');
                     return loc.save();
                 }
                 //rentalObj.propertyId = +loc.propertyId;
@@ -131,7 +118,6 @@ var propertyRepo = (function () {
             });
         }
         catch (ex) {
-            console.log(ex);
             throw ex;
         }
     };
