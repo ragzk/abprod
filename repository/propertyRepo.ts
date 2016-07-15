@@ -122,7 +122,7 @@ export class propertyRepo {
                         imageUrl: rentalObj.imageUrl,
                         status: rentalObj.status.toString(),
                         lastUpdateFileNumber: rentalObj.lastUpdateFileNumber,
-                        underOffer: rentalObj.underOffer ? true : false
+                        underOffer: rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false
                     });
                     return loc.save();
                 }
