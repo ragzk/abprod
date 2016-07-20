@@ -9,6 +9,23 @@
         <title>@model.title</title>
     </head>
     <body>
+	<noscript id="deferred-styles">
+      <link rel="stylesheet" type="text/css" href="/public/stylesheets/all.css"/>
+    </noscript>
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
+
         <div id="main-container" class="container" ng-controller="mainController">
             <div id="header-container">
                 <div ng-include src="'Header.html'"></div>
@@ -289,20 +306,4 @@
         <script src="/public/javascripts/custom/slider.js"></script>
         <script src="/public/javascripts/custom/cut.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/select2/3.4.8/select2.min.js"></script>-->
-	<noscript id="deferred-styles">
-      <link rel="stylesheet" type="text/css" href="/public/stylesheets/all.css"/>
-    </noscript>
-    <script>
-      var loadDeferredStyles = function() {
-        var addStylesNode = document.getElementById("deferred-styles");
-        var replacement = document.createElement("div");
-        replacement.innerHTML = addStylesNode.textContent;
-        document.body.appendChild(replacement)
-        addStylesNode.parentElement.removeChild(addStylesNode);
-      };
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-      else window.addEventListener('load', loadDeferredStyles);
-    </script>
 </html>
