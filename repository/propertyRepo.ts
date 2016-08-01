@@ -32,7 +32,16 @@ export class propertyRepo {
         var findOptions = <sequelize.FindOptions>{};
         var where = {};
         if (tran == "buy" || tran == "rent") {
-            _.extend(where, { status: 'current', type: 'residential'});
+            _.extend(where, { status: 'current', 
+                $or: [
+                    {
+                        type: 'residential'
+                    },
+                    {
+                        type: 'land'
+                    }
+                    ]
+	});
         }
         if (tran == "sold") {
             _.extend(where, { status: 'sold' });
