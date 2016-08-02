@@ -20,8 +20,9 @@ var propertyRepo = (function () {
     propertyRepo.prototype.getProperties = function (tran, type) {
         var findOptions = {};
         var where = {};
-        if (tran == "buy" || tran == "rent") {
-            _.extend(where, { status: 'current', 
+        if (tran == "buy") {
+            _.extend(where, {
+                status: 'current',
                 $or: [
                     {
                         type: 'residential'
@@ -30,8 +31,15 @@ var propertyRepo = (function () {
                         type: 'land'
                     }
                     ]
-	});
+            });
         }
+
+        if (tran == "rent") {
+            _.extend(where, {
+                status: 'current'
+            });
+        }
+
         if (tran == "sold") {
             _.extend(where, { status: 'sold' });
         }
