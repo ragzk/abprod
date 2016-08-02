@@ -31,8 +31,9 @@ export class propertyRepo {
     getProperties(tran: string, type: string) {
         var findOptions = <sequelize.FindOptions>{};
         var where = {};
-        if (tran == "buy" || tran == "rent") {
-            _.extend(where, { status: 'current', 
+        if (tran == "buy") {
+            _.extend(where, {
+                status: 'current',
                 $or: [
                     {
                         type: 'residential'
@@ -41,8 +42,15 @@ export class propertyRepo {
                         type: 'land'
                     }
                     ]
-	});
+            });
         }
+
+        if (tran == "rent") {
+            _.extend(where, {
+                status: 'current'
+            });
+        }
+
         if (tran == "sold") {
             _.extend(where, { status: 'sold' });
         }
