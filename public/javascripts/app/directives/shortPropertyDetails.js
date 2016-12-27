@@ -25,6 +25,7 @@
                 _.each(scope.property.inspectionTimes.split(','), function (current) {
                     var nextInspectionTimes = current;
                     
+                    //if (nextInspectionTimes && _.first(nextInspectionTimes.split(' to')) && moment(_.first(nextInspectionTimes.split(" to")), "DD/MMM/YYYY").unix() >= moment(Date.now()).startOf('day').unix()) {
                     if (nextInspectionTimes && _.first(nextInspectionTimes.split(' to')) && moment(_.first(nextInspectionTimes.split(' to')), "DD/MMM/YYYY").toDate() > moment(Date.now()).toDate()) {
                         inspectionTimes = inspectionTimes ? inspectionTimes + ", " + nextInspectionTimes:nextInspectionTimes;
                     }

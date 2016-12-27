@@ -5,7 +5,12 @@ var statsLogging = require("../routes/statsLogging.js");
 
 exports.propertyAppraisal = function (req, res) {
     statsLogging.addLogging('propertyAppraisal', null, req);
-    res.render('propertyAppraisal');
+    if (req.xhr) {
+        res.render('propertyAppraisal', { layout: false});
+    }
+    else {
+        res.render('propertyAppraisal');
+    }    
 };
 
 
@@ -21,8 +26,8 @@ exports.save = function (req, res) {
         fullname: fullname,
         phoneNumber: phoneNumber,
         propertyAddress: propertyAddress
-    }
-
+    }    
+    
     var propertyAppraisalReport = require("../repository/propertyAppraisalRepo");
     var repo = new propertyAppraisalReport.propertyAppraisalRepo();
     repo.save(propertyAppraisalObject).then(function (data) {
@@ -38,7 +43,7 @@ exports.save = function (req, res) {
                 }
             }
         });
-
+        
         // setup e-mail data with unicode symbols
         var mailOptions = {
             from: '<microappjs@gmail.com>', // sender address
@@ -46,7 +51,7 @@ exports.save = function (req, res) {
             subject: 'Property Appraisal requested', // Subject line
             text: 'Property Appraisal requested by ' + data.fullName + ' for property ' + data.propertyAddress + ' ( email address: ' + data.email + ' phone number ' + data.phoneNumber + ' )', // plaintext body
         };
-
+        
         // send mail with defined transport object
         smtpTransport.sendMail(mailOptions, function (error, info) {
             if (error) {
@@ -56,30 +61,30 @@ exports.save = function (req, res) {
         });
 
 
-        //MAILGUN
+         //MAILGUN
         //var api_key = 'key-8cfe39e36149da9600caa5dce02f9aa1';
         //var domain = 'abtest-mx-test.com';
         //var mailgun = require('mailgun-js')({ apiKey: api_key, domain: domain });
-
+        
         //var data = {
         //    from: 'Excited User <me@samples.mailgun.org>',
         //    to: 'kamrag@gmail.com',
         //    subject: 'Hello',
         //    text: 'Testing some Mailgun awesomness!'
         //};  
-
+        
         //mailgun.messages().send(data, function (error, body) {
         //    console.log(body);
         //});
 
         //var sendgrid = require("sendgrid")("microappjs", "janison1!");
         //var email = new sendgrid.Email();
-
+        
         //email.addTo("kamrag@gmail.com");
         //email.setFrom("microappjs@gmail.com");
         //email.setSubject("Sending with SendGrid is Fun");
         //email.setHtml("and easy to do anywhere, even with Node.js");
-
+        
         //var emailSent = function (e) {
         //    console.log(e);
         //}

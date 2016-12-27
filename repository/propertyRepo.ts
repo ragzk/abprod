@@ -50,7 +50,6 @@ export class propertyRepo {
                 status: 'current'
             });
         }
-
         if (tran == "sold") {
             _.extend(where, { status: 'sold' });
         }

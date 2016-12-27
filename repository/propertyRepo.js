@@ -30,16 +30,14 @@ var propertyRepo = (function () {
                     {
                         type: 'land'
                     }
-                    ]
+                ]
             });
         }
-
         if (tran == "rent") {
             _.extend(where, {
                 status: 'current'
             });
         }
-
         if (tran == "sold") {
             _.extend(where, { status: 'sold' });
         }
