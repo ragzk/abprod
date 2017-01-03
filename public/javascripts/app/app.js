@@ -8,16 +8,7 @@
 
 APP.config(['$routeProvider', '$locationProvider',
     function ($routeProvider, $locationProvider) {
-        $routeProvider.
-      when('/', {
-            templateUrl: 'public/routeHTML/index.html'
-        }).
-      when('/agents', {
-            templateUrl: 'public/routeHTML/agents.html'
-        }).
-        when('/agent', {
-            templateUrl: 'public/routeHTML/agent.html'
-        });
+
         $locationProvider.html5Mode({
             enabled: true,
             requireBase: false

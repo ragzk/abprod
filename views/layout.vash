@@ -6,7 +6,7 @@
         <!-- Latest compiled and minified CSS -->
         <link rel="shortcut icon" href="/public/images/favicon.png">
         <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-        <title>@model.title</title>
+        <title>@model.data.title</title>
 		<base href="/">
     </head>
     <body>
@@ -31,7 +31,7 @@
                 <div ng-include src="'Header.html'"></div>
             </div>
             <div id="body-container">
-				<div id="content-container">
+				<div id="content-container" class="content-container">
 					@html.block('content')
 				</div>
                 <div class="sidebar">
@@ -257,7 +257,7 @@
             </div>-->
         <!--<a href="" class="btn b*tn-primary sharp">Search</a>-->
     </script>
-	<script type="text/javascript">
+	<!--<script type="text/javascript">
 
 	// Add a script element as a child of the body
 	 function downloadJSAtOnload() {
@@ -274,10 +274,10 @@
 	 window.attachEvent("onload", downloadJSAtOnload);
 	 else window.onload = downloadJSAtOnload;
 
-	</script>
+	</script>-->
     <!--<script src="/public/javascripts/vendor.js"></script>
     <script src="/public/javascripts/app/all.js"></script>-->
-    <!--<script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
         <script src="/bower_components/lodash/lodash.js"></script>
         <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
         <script src="/bower_components/angular/angular.js"></script>
@@ -294,7 +294,7 @@
         <script src="/public/javascripts/app/app.js"></script>
         <script src="/public/javascripts/custom/postalAngularWrapper.js"></script>
         <script src="/public/javascripts/app/controllers/mainController.js"></script>
-        <script src="/public/javascripts/app/controllers/sidebarController.js"></script>
+        <script src="/public/javascripts/app/controllers/	sidebarController.js"></script>
         <script src="/public/javascripts/app/controllers/SearchController.js"></script>
         <script src="/public/javascripts/app/controllers/buyController.js"></script>
         <script src="/public/javascripts/app/controllers/agentController.js"></script>
@@ -310,5 +310,5 @@
 		 <script src="/public/javascripts/app/directives/getHTML.js"></script>
         <script src="/public/javascripts/custom/slider.js"></script>
         <script src="/public/javascripts/custom/cut.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/select2/3.4.8/select2.min.js"></script>-->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/select2/3.4.8/select2.min.js"></script>
 </html>
