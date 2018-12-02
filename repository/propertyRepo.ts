@@ -60,7 +60,7 @@ export class propertyRepo {
             _.extend(where, { inspectionTimes: {ne: null} });
         }
         findOptions.where = where;
-        findOptions.order = [['propertyId', 'DESC']];
+        findOptions.order = [['property.propertyId', 'DESC']];
         findOptions.include = [{ model: models.propertyaddress, required: false },
             { model: models.propertyfeature, required: false },
             { model: models.propertydescription, required: false }
