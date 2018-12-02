@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/abtest/v15/.suo
+/node_modules
+/bower_components
+/website.publishproj
+/package-lock.json
