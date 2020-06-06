@@ -2,7 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bower_components
+/.vs/abtest/v15/.suo
 /node_modules
-/schema
-/node
+/bower_components
+/website.publishproj
+/package-lock.json
