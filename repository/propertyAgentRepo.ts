@@ -92,20 +92,23 @@ export class propertyagentRepo {
                     );
                 }
                 else {
-                    abAgent = models.agent.build({
-                        name: agent.name,
-                        mobile: agent.telephone[0].text,
-                        email: agent.email,
-                        mydesktopAgentId: <any>agent.agentid
-                    });
-                    abAgent.save().then(function (dbAgent) {
-                        var propertyAgent = models.propertyagent.build({
-                            propertyId: <any>propertyId,
-                            agentId: <any>dbAgent.agentId,
+                    if (agent.agentid > 0) {
+
+                        abAgent = models.agent.build({
+                            name: agent.name,
+                            mobile: agent.telephone[0].text,
+                            email: agent.email,
                             mydesktopAgentId: <any>agent.agentid
                         });
-                        return propertyAgent.save();
-                    });
+                        abAgent.save().then(function (dbAgent) {
+                            var propertyAgent = models.propertyagent.build({
+                                propertyId: <any>propertyId,
+                                agentId: <any>dbAgent.agentId,
+                                mydesktopAgentId: <any>agent.agentid
+                            });
+                            return propertyAgent.save();
+                        });                    } 
+
                 }
             });
 

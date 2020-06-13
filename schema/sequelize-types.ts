@@ -187,7 +187,7 @@ export interface propertyPojo
     type?:string;
     priceView?:string;
     bond?:number;
-    uniqueId?:number;
+    uniqueId?:string;
     headline?:string;
     isSold?:boolean;
     soldPrice?:string;

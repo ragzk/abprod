@@ -20,7 +20,7 @@ export class propertyRepo {
     }
 
 
-    getProperty1(id: number) {
+    getProperty1(id: string) {
         var findOptions = <sequelize.FindOptions>{};
         findOptions.where = { uniqueId: id };
         var r = models.property.find({ where: { uniqueId: id } });

@@ -27,7 +27,7 @@ var propertyagentRepo = (function () {
             var that = this;
             return this.getpropertyagents(propertyId, agent.agentid).then(function (e) {
                 var propertyAgent = e;
-                if (propertyAgent) {
+                if (propertyAgent || agent.agentid < 1) {
                 }
                 else {
                     return that.getagent(agent.agentid).then(function (abAgent) {
