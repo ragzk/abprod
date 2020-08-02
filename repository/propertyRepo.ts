@@ -104,7 +104,7 @@ export class propertyRepo {
                         loc.latitude = rentalObj.geocode && rentalObj.geocode.latitude || null;
                         loc.type = rentalObj.type;
                         loc.priceView = rentalObj.priceView;
-                        loc.bond = rentalObj.bond
+                        loc.bond = rentalObj.bond;
                         loc.soldDate = rentalObj.soldDetails ? rentalObj.soldDetails.date : null;
                         loc.soldPrice = rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null;
                         loc.modifiedTime = rentalObj.modTime;

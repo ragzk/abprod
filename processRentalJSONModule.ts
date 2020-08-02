@@ -184,6 +184,7 @@ class processRentalJSON {
         //obj.lastUpdateFileNumber = +fileNameWithoutExtension.substring(fileNameWithoutExtension.lastIndexOf('_') + 1);
         obj.lastUpdateFileNumber = +fileNameWithoutExtension.substring(fileNameWithoutExtension.indexOf('-') + 1).split('-').join('').split('_').join('').substring(3, 12);
         var prop = null;
+        obj.uniqueID = obj.uniqueID.replace("L", "").replace("R", "");
         var chain = repo.saveProperty(obj)
             .then(function (prop) {
                 console.log("save property info done");

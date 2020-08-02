@@ -1,5 +1,7 @@
+"use strict";
 /// <reference path="rentalInterface.d.ts" />
 /// <reference path="repository/propertyRepo.ts" />
+Object.defineProperty(exports, "__esModule", { value: true });
 //module processRentalJSONModule {
 //declare function require(name: string);
 var propertyReport = require("./repository/propertyRepo");
@@ -35,7 +37,7 @@ var StausEnum;
     StausEnum[StausEnum["sold"] = 2] = "sold";
     StausEnum[StausEnum["withdrawn"] = 3] = "withdrawn";
 })(StausEnum || (StausEnum = {}));
-var processRentalJSON = (function () {
+var processRentalJSON = /** @class */ (function () {
     function processRentalJSON() {
     }
     processRentalJSON.prototype.process = function () {
@@ -94,6 +96,9 @@ var processRentalJSON = (function () {
                 console.log('multiple properties processed');
                 return Promise.when([]);
             });
+            //for (var o in obj) {
+            //    return that.addImagesAndDB(that, obj[0]);
+            //}
         }
         //else {
         //    return that.addImagesAndDB(that, obj);
@@ -162,6 +167,7 @@ var processRentalJSON = (function () {
         //obj.lastUpdateFileNumber = +fileNameWithoutExtension.substring(fileNameWithoutExtension.lastIndexOf('_') + 1);
         obj.lastUpdateFileNumber = +fileNameWithoutExtension.substring(fileNameWithoutExtension.indexOf('-') + 1).split('-').join('').split('_').join('').substring(3, 12);
         var prop = null;
+        obj.uniqueID = obj.uniqueID.replace("L", "").replace("R", "");
         var chain = repo.saveProperty(obj)
             .then(function (prop) {
             console.log("save property info done");
@@ -197,6 +203,10 @@ var processRentalJSON = (function () {
                             console.log('all image saved in DB');
                             Promise.when([]);
                         });
+                        //for (var i = 0; i < obj.listingAgent.length; i++) {
+                        //    var agent = <IListingAgent>obj.listingAgent[i];
+                        //    return agentRepo.savepropertyagent(agent, obj.propertyId);
+                        //}
                     }
                     else {
                         var agent1 = obj.listingAgent;
@@ -360,7 +370,7 @@ var processRentalJSON = (function () {
         }
     };
     return processRentalJSON;
-})();
+}());
 exports.init = function (data, fs, request, path, xmlPath) {
     var p = new processRentalJSON();
     p.data = data;

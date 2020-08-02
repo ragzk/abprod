@@ -26,12 +26,12 @@ export class propertyFeatureRepo {
     savePropertyFeature(rentalObj: IRental) {
         try {
             return this.getPropertyFeature(rentalObj.propertyId).then(function (e) {
-                rentalObj.features.airConditioningDB = rentalObj.features.airConditioning == "true" ? 1 : 0;
-                rentalObj.features.alarmSystemDB = rentalObj.features.alarmSystem == "true" ? 1 : 0;
+
+                rentalObj.features.airConditioningDB = rentalObj.features.airConditioning === "true" ? 1 : 0;
+                rentalObj.features.alarmSystemDB = rentalObj.features.alarmSystem === "true" ? 1 : 0;
                  
                 var feature = e;
                 if (feature) {
-                    feature.propertyId.PropertyId = rentalObj.propertyId;
                     feature.bedroom = rentalObj.features.bedrooms;
                     feature.bathroom = rentalObj.features.bathrooms;
                     feature.garages = rentalObj.features.garages;

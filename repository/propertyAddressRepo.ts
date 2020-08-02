@@ -27,13 +27,14 @@ export class propertyAddressRepo {
         try {
             return this.getPropertyAddress(rentalObj.propertyId).then(function (e) {
                 var address = e;
+                console.log(rentalObj.address);
                 if (address) {
-                    address.propertyId.PropertyId = rentalObj.propertyId;
+
                     address.streetNumber = rentalObj.address.streetNumber;
                     address.street = rentalObj.address.street;
-                    address.suburb = rentalObj.address.suburb;
                     address.state = rentalObj.address.state;
                     address.postcode = rentalObj.address.postcode;
+                    address.suburb = rentalObj.address.suburb;
                 }
                 else {
                     address = models.propertyaddress.build({

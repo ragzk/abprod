@@ -72,10 +72,14 @@ export class propertyagentRepo {
             if (agent.email == undefined) {
                 return;
             }
-            return that.getagentByEmail(agent.email).then(function (abAgent) {
-                if (abAgent) {
+            return that.getagentByEmail(agent.email).then((abAgent) => {
+                console.log("*** agent***");
+                console.log(abAgent);
 
+                if (abAgent != null) {
+                    
                     that.getpropertyagents(propertyId, <any>abAgent.mydesktopAgentId).then(function (e) {
+                        console.log("*** agent1***");
                         var propertyAgent = e;
                         if (propertyAgent) {
 
@@ -92,19 +96,23 @@ export class propertyagentRepo {
                     );
                 }
                 else {
-                    if (agent.agentid > 0) {
+                    console.log("*** new agent1***");
+                    console.log(agent);
 
+                    if (agent.id > 0) {
+                        var randomMyDesktopAgentId = Math.floor(Math.random() * 10000);
+                        console.log("*** new agent***");
                         abAgent = models.agent.build({
                             name: agent.name,
                             mobile: agent.telephone[0].text,
                             email: agent.email,
-                            mydesktopAgentId: <any>agent.agentid
+                            mydesktopAgentId: <any>randomMyDesktopAgentId
                         });
                         abAgent.save().then(function (dbAgent) {
                             var propertyAgent = models.propertyagent.build({
                                 propertyId: <any>propertyId,
                                 agentId: <any>dbAgent.agentId,
-                                mydesktopAgentId: <any>agent.agentid
+                                mydesktopAgentId: <any>randomMyDesktopAgentId
                             });
                             return propertyAgent.save();
                         });                    } 
