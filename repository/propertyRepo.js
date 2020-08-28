@@ -1,12 +1,13 @@
+"use strict";
 /// <reference path="../enums.ts" />
-/// <reference path="../typings/moment/moment.d.ts" />
-var models = require('../schema/sequelize-models');
-var dbConfig = require('../dbConfig');
-var moment = require('moment');
+Object.defineProperty(exports, "__esModule", { value: true });
+var models = require("../schema/sequelize-models");
+var dbConfig = require("../dbConfig");
+var moment = require("moment");
 var _ = require('lodash');
 var Promise = require('q');
 //import rentalDefinitions = require('rentalDefinitions');
-var propertyRepo = (function () {
+var propertyRepo = /** @class */ (function () {
     function propertyRepo() {
         this._dbConfig = new dbConfig.dbConfig();
         models.initialize(this._dbConfig.database, this._dbConfig.user, this._dbConfig.password, { define: { freezeTableName: true } });
@@ -89,8 +90,8 @@ var propertyRepo = (function () {
                         loc.type = rentalObj.type;
                         loc.priceView = rentalObj.priceView;
                         loc.bond = rentalObj.bond;
-                        loc.soldDate = rentalObj.soldDetails ? rentalObj.soldDetails.date : null;
-                        loc.soldPrice = rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null;
+                        //loc.soldDate = rentalObj.soldDetails ? rentalObj.soldDetails.date : null;
+                        //loc.soldPrice = rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null
                         loc.modifiedTime = rentalObj.modTime;
                         loc.imageUrl = rentalObj.imageUrl;
                         loc.status = rentalObj.status.toString();
@@ -120,7 +121,6 @@ var propertyRepo = (function () {
                         soldDate: rentalObj.soldDetails ? rentalObj.soldDetails.date : null,
                         soldPrice: rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null,
                         modifiedTime: rentalObj.modTime,
-                        imageUrl: rentalObj.imageUrl,
                         status: rentalObj.status.toString(),
                         lastUpdateFileNumber: rentalObj.lastUpdateFileNumber,
                         underOffer: rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false
@@ -133,7 +133,7 @@ var propertyRepo = (function () {
                     }
                 }
                 //rentalObj.propertyId = +loc.propertyId;
-                console.log(rentalObj.type + " " + rentalObj.fileName);
+                //                console.log(rentalObj.type + " " + rentalObj.fileName);
                 //this._instance = loc
                 //return this._instance;
             });
@@ -143,6 +143,6 @@ var propertyRepo = (function () {
         }
     };
     return propertyRepo;
-})();
+}());
 exports.propertyRepo = propertyRepo;
 //# sourceMappingURL=propertyRepo.js.map
