@@ -86,11 +86,9 @@ export class propertyRepo {
 
     saveProperty(rentalObj: IRental) {        
         try {
-
             return this.getProperty1(rentalObj.uniqueID).then(
                 e => {
                     var loc = e;
-
                     if (loc) {
                         if (loc.lastUpdateFileNumber < rentalObj.lastUpdateFileNumber) {
 
@@ -109,8 +107,8 @@ export class propertyRepo {
                             loc.priceView = rentalObj.priceView;
                             loc.bond = rentalObj.bond;
 
-                            //loc.soldDate = rentalObj.soldDetails ? rentalObj.soldDetails.date : null;
-                            //loc.soldPrice = rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null
+                            loc.soldDate = rentalObj.soldDetails ? rentalObj.soldDetails.soldDate : null;
+                            loc.soldPrice = rentalObj.soldDetails && rentalObj.soldDetails.soldPrice.display == "yes" ? rentalObj.soldDetails.soldPrice._ : null
 
                             loc.modifiedTime = rentalObj.modTime;
                             loc.imageUrl = rentalObj.imageUrl;
@@ -118,36 +116,38 @@ export class propertyRepo {
                             loc.status = rentalObj.status.toString();
                             loc.lastUpdateFileNumber = rentalObj.lastUpdateFileNumber; 
                             loc.underOffer = rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false;
+
                             return loc.save();
                         }
                         else {
-
                             return Promise.resolve(loc);
                         }
                     }
                     else {
-                        loc = models.property.build({
-                            headline: rentalObj.headline,
-                            uniqueId: rentalObj.uniqueID,
-                            identifier: rentalObj.uniqueID.toString(),
-                            name: rentalObj.uniqueID.toString(),
-                            dateAvailable: rentalObj.dateAvailable ? moment(rentalObj.dateAvailable).toDate() : null,
-                            rent: rentalObj.rent ? parseFloat(rentalObj.rent._) : null,
-                            category: rentalObj.category ? rentalObj.category.name.toString() : "Land",
-                            inspectionTimes: rentalObj.inspectionTimes ? Array.isArray(rentalObj.inspectionTimes.inspection) ? rentalObj.inspectionTimes.inspection.toString() : rentalObj.inspectionTimes.inspection : null,
-                            longitude: rentalObj.geocode && rentalObj.geocode.longitude || null,
-                            latitude: rentalObj.geocode && rentalObj.geocode.latitude || null,
-                            type: rentalObj.type,
-                            priceView: rentalObj.priceView,
-                            bond: rentalObj.bond,
-                            soldDate: rentalObj.soldDetails ? rentalObj.soldDetails.date : null,
-                            soldPrice: rentalObj.soldDetails ? rentalObj.soldDetails.price.text : null,
-                            modifiedTime: rentalObj.modTime,
-                            status: rentalObj.status.toString(),
-                            lastUpdateFileNumber: rentalObj.lastUpdateFileNumber,
-                            underOffer: rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false
-                        });
+
                         try {
+                            loc = models.property.build({
+                                headline: rentalObj.headline,
+                                uniqueId: rentalObj.uniqueID,
+                                identifier: rentalObj.uniqueID.toString(),
+                                name: rentalObj.uniqueID.toString(),
+                                dateAvailable: rentalObj.dateAvailable ? moment(rentalObj.dateAvailable).toDate() : null,
+                                rent: rentalObj.rent ? parseFloat(rentalObj.rent._) : null,
+                                category: rentalObj.category ? rentalObj.category.name.toString() : "Land",
+                                inspectionTimes: rentalObj.inspectionTimes ? Array.isArray(rentalObj.inspectionTimes.inspection) ? rentalObj.inspectionTimes.inspection.toString() : rentalObj.inspectionTimes.inspection : null,
+                                longitude: rentalObj.geocode && rentalObj.geocode.longitude || null,
+                                latitude: rentalObj.geocode && rentalObj.geocode.latitude || null,
+                                type: rentalObj.type,
+                                priceView: rentalObj.priceView,
+                                bond: rentalObj.bond,
+                                soldDate: rentalObj.soldDetails ? rentalObj.soldDetails.soldDate : null,
+                                soldPrice: rentalObj.soldDetails && rentalObj.soldDetails.soldPrice.display == "yes" ? rentalObj.soldDetails.soldPrice._ : null,
+                                modifiedTime: rentalObj.modTime,
+                                status: rentalObj.status.toString(),
+                                lastUpdateFileNumber: rentalObj.lastUpdateFileNumber,
+                                underOffer: rentalObj.underOffer ? rentalObj.underOffer.value == "yes" ? true : false : false
+                            });
+
                             return loc.save();
                         }
                         catch (ex) {
